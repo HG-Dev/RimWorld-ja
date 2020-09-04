@@ -264,9 +264,9 @@
   <MessageMedicalOperationFailureFatal>{SURGEON_labelShort}は,{PATIENT_labelShort}の手術中に,重大なミスを犯した.なぜなら特殊な挑戦を行ったからです: {2}</MessageMedicalOperationFailureFatal>
 
   <!-- Quests -->
-  <LetterQuestBecameAvailable>新しいクエストが利用可能になりました.\n「{0}」と呼びます.\n</LetterQuestBecameAvailable>
+  <LetterQuestBecameAvailable>新しいクエストが利用可能になりました:\n{0}\n</LetterQuestBecameAvailable>
   <LetterQuestRequiresAcceptance>{0} 以内に,クエストを受けない場合\n期限切れになります.</LetterQuestRequiresAcceptance>
-  <LetterQuestBecameActive>新しいクエストが有効になりました.\n「{0}」と呼びます.\n</LetterQuestBecameActive>
+  <LetterQuestBecameActive>新しいクエストが有効になりました:\n{0}</LetterQuestBecameActive>
   <LetterQuestAutomaticallyAcceptedTitle>有効なクエスト:{0}</LetterQuestAutomaticallyAcceptedTitle>
   <LetterQuestActiveNowTime>{0}で期限切れになります.</LetterQuestActiveNowTime>
 
