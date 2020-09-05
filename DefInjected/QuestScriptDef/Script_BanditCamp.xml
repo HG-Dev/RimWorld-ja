@@ -2,7 +2,7 @@
 <LanguageData>
 
   <OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
-    <li>questDescription->クエストの依頼:\n[asker_faction_name][asker_faction_leaderTitle]の[asker_nameDef]から通信が届きました.どうやら,近くにキャンプを作り拠点を設置した[siteFaction_pawnsPlural]はキャラバンを襲撃しているようです.\n討伐対象のキャンプは[siteFaction_name]の支配下にあります.\n\nクエストの目的：\n[asker_nameDef]は,私たちにキャンプを破壊するように要請しています.つまり,全ての敵とタレットの排除です.\n\n予想される脅威について,[asker_label]の報告では\n[sitePart0_description]だそうです.\n\nもし成功すれば,\n[allRewardsDescriptions]</li>
+    <li>questDescription->クエストの依頼:\n[asker_faction_name][asker_faction_leaderTitle]の[asker_nameDef]から通信が届きました.どうやら,近くにキャンプを作り拠点を設置した[siteFaction_pawnsPlural]はキャラバンを襲撃しているようです.\n討伐対象のキャンプは[siteFaction_name]の支配下にあります.\n\nクエストの目的：\n[asker_nameDef]は,私たちにキャンプを破壊するように要請しています.つまり,全ての敵とタレットの排除です.\n\n[asker_label]の報告では,以下の危険要素があります:\n - [sitePart0_description]\n\nもし成功すれば,\n[allRewardsDescriptions]</li>
   </OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
 
   <OpportunitySite_BanditCamp.questNameRules.rulesStrings>
@@ -21,6 +21,6 @@
   <OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>報酬が届いた</OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>
   <OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>盗賊キャンプを討伐しました！\n\n[asker_faction_name]からの報酬が届きました。</OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>
   <OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>
-  <OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>これらの入植者たちは,[rresolvedQuestName]探索の戦いと勝利に参加しました.[asker_definite]は,このクエスト報酬として[royalFavorReward_amount][asker_faction_royalFavorLabel]を誰が受けとるのか知りたがっています.</OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>これらの入植者たちは,[resolvedQuestName]探索の戦いと勝利に参加しました.[asker_definite]は,このクエスト報酬として[royalFavorReward_amount][asker_faction_royalFavorLabel]を誰が受けとるのか知りたがっています.</OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
 
 </LanguageData>

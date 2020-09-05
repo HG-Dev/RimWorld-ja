@@ -88,13 +88,13 @@
   <!-- History tab - Statistics -->
   <Playtime>プレイ時間</Playtime>
   <Storyteller>AI脚本家</Storyteller>
-  <ThisMapColonyWealthTotal>村の価値 (this map)</ThisMapColonyWealthTotal>
-  <ThisMapColonyWealthItems>村の価値(アイテム) (this map)</ThisMapColonyWealthItems>
-  <ThisMapColonyWealthBuildings>村の価値(建物) (this map)</ThisMapColonyWealthBuildings>
-  <ThisMapColonyWealthColonistsAndTameAnimals>村の価値(ヒト・動物達) (this map)</ThisMapColonyWealthColonistsAndTameAnimals>
+  <ThisMapColonyWealthTotal>村の価値 (当マップ)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthItems>村の価値(アイテム) (当マップ)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthBuildings>村の価値(建物) (当マップ)</ThisMapColonyWealthBuildings>
+  <ThisMapColonyWealthColonistsAndTameAnimals>村の価値(ヒト・動物達) (当マップ)</ThisMapColonyWealthColonistsAndTameAnimals>
   <NumThreatBigs>大きな脅威</NumThreatBigs>
   <NumEnemyRaids>敵の襲撃</NumEnemyRaids>
-  <ThisMapDamageTaken>総ダメージ量 (this map)</ThisMapDamageTaken>
+  <ThisMapDamageTaken>総ダメージ量 (当マップ)</ThisMapDamageTaken>
   <ColonistsKilled>殺された 入植者数</ColonistsKilled>
   <ColonistsLaunched>惑星脱出した 入植者数</ColonistsLaunched>
 

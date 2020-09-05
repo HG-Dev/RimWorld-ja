@@ -144,8 +144,8 @@
   <VentClosed>閉</VentClosed>
   <WornBy>{1_labelShort}が着ている</WornBy>
   <EquippedBy>{1_labelShort}が装備している</EquippedBy>
-  <QuestTargetDestroyInspectString>{0}は,この破壊を求めている.\n    報償: {1} ({2})</QuestTargetDestroyInspectString>
-  <QuestTargetDestroyInspectStringShort>{0}はこれの破壊を希望している.</QuestTargetDestroyInspectStringShort>
+  <QuestTargetDestroyInspectString>{0}はこれの破壊を求めている.\n    報償: {1} ({2})</QuestTargetDestroyInspectString>
+  <QuestTargetDestroyInspectStringShort>{0}はこれの破壊を求めている.</QuestTargetDestroyInspectStringShort>
   <ShuttleDelayInspectString>{0}のシャトルで出発</ShuttleDelayInspectString>
   <ShuttleLeaveDelayInspectString>{0}を出発</ShuttleLeaveDelayInspectString>
   <ShouldDepartOnShuttleInspectString>シャトルで出発する必要があります</ShouldDepartOnShuttleInspectString>
