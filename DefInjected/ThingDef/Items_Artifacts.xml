@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <PsychicAnimalPulser.label>凶暴の波動(psychic animal pulser)</PsychicAnimalPulser.label>
+  <PsychicAnimalPulser.label>凶暴の波動</PsychicAnimalPulser.label>
   <PsychicAnimalPulser.description>使い捨ての広域サイキックエフェクターです.精神波パルスが恐ろしいイメージで脳髄下部を満たし,マップ上の全ての動物を人狩りへと駆り立てます.現在,あなたのコロニーに所属する動物は影響を受けません.</PsychicAnimalPulser.description>
   <PsychicAnimalPulser.comps.CompUsable.useLabel>起動する</PsychicAnimalPulser.comps.CompUsable.useLabel>
 
-  <PsychicSoothePulser.label>和の波動(psychic soothe pulser)</PsychicSoothePulser.label>
+  <PsychicSoothePulser.label>和の波動</PsychicSoothePulser.label>
   <PsychicSoothePulser.description>使い捨ての広域サイキックエフェクターです.精神波パルスが知覚歪曲による自己満足効果を起こし,マップ上全員の"心情"を,一時的に持ち上げる効果を生じさせます.</PsychicSoothePulser.description>
   <PsychicSoothePulser.comps.CompUsable.useLabel>起動する</PsychicSoothePulser.comps.CompUsable.useLabel>
 
