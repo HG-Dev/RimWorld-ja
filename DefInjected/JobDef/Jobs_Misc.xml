@@ -25,7 +25,7 @@
   <CastAbilityOnThingMelee.reportString>何かをしている</CastAbilityOnThingMelee.reportString>
   <CastAbilityOnWorldTile.reportString>何かをしている</CastAbilityOnWorldTile.reportString>
   <Equip.reportString>TargetA を装備中</Equip.reportString>
-  <TakeInventory.reportString>TargetA を拾った</TakeInventory.reportString>
+  <TakeInventory.reportString>TargetA をインベントリに拾い入れた</TakeInventory.reportString>
   <GiveToPackAnimal.reportString>TargetA を与えた</GiveToPackAnimal.reportString>
   <Wear.reportString>TargetA を着ている</Wear.reportString>
   <RemoveApparel.reportString>TargetA を脱いでいる</RemoveApparel.reportString>
