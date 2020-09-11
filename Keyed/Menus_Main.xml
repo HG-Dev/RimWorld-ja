@@ -142,6 +142,7 @@
   <ConfirmSteamWorkshopUpload>あなたは,"Steam Workshop"にアップロードしようとしています.よろしいですか？\n\nあなたは,"Steam Workshop terms of service"を承諾しなければなりません.全文はここにあります.\n\n http://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
   <ConfirmContentAuthor>あなたは,明らかに,あなた自身が作成したコンテンツだけをアップロードしなければなりません.このコンテンツはあなた自身が作成したものですね？</ConfirmContentAuthor>
   <Incompatible>適合しません</Incompatible>
+  <TagAsTranslation>翻訳タグを付ける</TagAsTranslation>
   <TooMany>多すぎます(最大 {0}): </TooMany>
   <CanBeUpdatedOnWorkshop>あなたが作者なので,ワークショップを更新することができます.</CanBeUpdatedOnWorkshop>
 
@@ -234,8 +235,10 @@
   <Difficulty_AdaptationGrowthRateFactorOverZero_Info>適応とは,あなたが損失を出さない限り,ストーリーテラーが時間と共にゲームをより難しく適応し続けることを意味します.これはコロニーの資産と人口数の影響とは別の話になります.\n\nこれにより,ゲームの挑戦的な難易度増加を調整します.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
   <Difficulty_AdaptationEffectFactor_Label>損害による適応の効果</Difficulty_AdaptationEffectFactor_Label>
   <Difficulty_AdaptationEffectFactor_Info>適応とは,あなたが損失を出さない限り,ストーリーテラーが時間と共にゲームをより難しく適応し続けることを意味します.これはコロニーの資産と人口数の影響とは別の話になります.\n\nこれにより,実際の脅威に対する適応値の影響率が調整されます.</Difficulty_AdaptationEffectFactor_Info>
-  <Difficulty_FixedWealthMode_Label>時間経過で資産を修正する</Difficulty_FixedWealthMode_Label>
-  <Difficulty_FixedWealthMode_Info>時間経過で資産を修正するモードでゲームをプレイします.\n\n通常モードでは,ストーリーテラーは入植者の人数やコロニーの資産とその他のさまざまな要因に従って脅威の規模を適応します.時間経過資産修正モードでは,資産係数が削除されて,時間に基づく修正された時間経過の曲線に置き換えられます.経過時間は各コロニーの設立時からTick数で計測されます.\n\nこれは,厳格なスキルチャレンジを探している人にのみお勧めします.時間経過修正モードでは,新しいコロニーを開拓しない限り,深刻な損失から回復することはほぼ不可能です.また,修正曲線の先を行きすぎて,ゲームが簡単になりすぎる可能性もあります.</Difficulty_FixedWealthMode_Info>
+  <Difficulty_FixedWealthMode_Label>資産に依存しない進行モード</Difficulty_FixedWealthMode_Label>
+  <Difficulty_FixedWealthMode_Info>資産に依存しない進行モードでゲームをプレイします.\n\n通常モードでは,ストーリーテラーは入植者の人数やコロニーの資産とその他のさまざまな要因に従って脅威の規模を適応します.資産に依存しない進行モードでは,資産係数が削除されて,時間に基づく修正された時間経過の曲線に置き換えられます.経過時間は各コロニーの設立時からTick数で計測されます.\n\nこれは,厳格なスキルチャレンジを探している人にのみお勧めします.時間経過修正モードでは,新しいコロニーを開拓しない限り,深刻な損失から回復することはほぼ不可能です.また,修正曲線の先を行きすぎて,ゲームが簡単になりすぎる可能性もあります.</Difficulty_FixedWealthMode_Info>
+  <Difficulty_FixedWealthTimeFactor_Label>脅威が最大になる年数</Difficulty_FixedWealthTimeFactor_Label>
+  <Difficulty_FixedWealthTimeFactor_Info>資産に依存しない進行モードで脅威が最大レベルに到達するまでのゲーム内年数です.\n\nストーリーテラーは,コロニーの数やその他の色々な要因に従って脅威の規模を決定することに注意が必要です.</Difficulty_FixedWealthTimeFactor_Info>
 
   <!-- Site select -->
   <SelectStartingSite>開始位置を選択</SelectStartingSite>
