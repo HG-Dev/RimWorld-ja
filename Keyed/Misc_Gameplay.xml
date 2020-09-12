@@ -188,6 +188,7 @@
   <EnterCooldown>{0}に再び入るのは危険過ぎます</EnterCooldown>
   <Caravan>キャラバン隊</Caravan>
   <HiddenOrNoSitePartDescription>ここは危険な気がする</HiddenOrNoSitePartDescription>
+  <PreciousLumpHostileThreat>スキャナーは希少鉱物の岩塊の周囲に活動中の何かを検知しました.それらはおそらく敵対的な相手です.</PreciousLumpHostileThreat>
   <PreciousLumpLabel>{0}の鉱脈</PreciousLumpLabel>
   <NoActiveResearchProjectToFinish>何も研究項目を決めてません</NoActiveResearchProjectToFinish>
   <Turret>タレット</Turret>
@@ -270,6 +271,7 @@
   <TextMote_Dodge>回避</TextMote_Dodge>
   <TextMote_Immune>免疫</TextMote_Immune>
   <TextMote_Tended>{0} 看病された</TextMote_Tended>
+  <TextMote_SkillUp>レベルが{0}になった</TextMote_SkillUp>
   <lowMood>低心情</lowMood>
   <lowOpinion>低評価</lowOpinion>
 
