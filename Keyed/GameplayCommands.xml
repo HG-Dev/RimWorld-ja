@@ -317,7 +317,9 @@
 
   <!-- Place blueprints -->
   <CommandPlaceBlueprints>研究設計書を配置</CommandPlaceBlueprints>
-  <CommandPlaceBlueprintsDesc>可能な場合,必要なすべての研究設計書を配置します.</CommandPlaceBlueprintsDesc>
+  <CommandPlaceBlueprintsDesc>可能な場合,必要な研究設計書をすべて配置します.</CommandPlaceBlueprintsDesc>
+  <CommandPlaceBlueprintsSpecific>{0} の研究設計書を配置</CommandPlaceBlueprintsSpecific>
+  <CommandPlaceBlueprintsSpecificDesc>可能な場合,必要な{0}の研究設計書をすべて配置します.</CommandPlaceBlueprintsSpecificDesc>
 
   <!-- Cancel monument marker -->
   <CommandCancelMonumentMarker>中止</CommandCancelMonumentMarker>
@@ -328,5 +330,9 @@
   <CommandViewQuestDesc>このクエストの詳細をクエストタブで確認します.</CommandViewQuestDesc>
   <CommandOpenLinkedQuest>リンクしたクエストを開く</CommandOpenLinkedQuest>
   <CommandOpenLinkedQuestDesc>クエストタブでリンクしたクエストを確認します.</CommandOpenLinkedQuestDesc>
+
+  <!-- Take a drug -->
+  <TakeDrug>ドラッグを服用...</TakeDrug>
+  <TakeDrugDesc>インベントリから今すぐ摂取するドラッグを選択してください.</TakeDrugDesc>
 
 </LanguageData>

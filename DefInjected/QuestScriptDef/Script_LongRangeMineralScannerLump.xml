@@ -2,15 +2,15 @@
 <LanguageData>
 
   <LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
-    <li>questDescription->クエストの内容:\n長距離鉱物探査スキャナーを使用して,[worker_definite]は付近に[targetMineable_label]の鉱脈を発見しました.\n\n残念なことに,それほど時間はありません.あなた方が採掘しなければ,他の勢力が[timeoutTicks_duration]後に採掘を始めるでしょう.\n\n予想される脅威:\n[allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription->クエストの内容:\n長距離鉱物探査スキャナーを使用して,[worker_definite]は付近に[targetMineable_label]の鉱脈を発見しました.\n\n残念なことに,それほど時間はありません.あなた方が採掘しなければ,他の勢力が[timeoutTicks_duration]後に採掘を始めるでしょう.\n\n予想される脅威:\n[lumpThreatDescription]</li>
   </LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
 
   <LongRangeMineralScannerLump.questNameRules.rulesStrings>
-    <li>questName->[targetMineable_label][lump]</li>
-    <li>questName->[targetMineable_label]の[lump]</li>
-    <li>questName->[targetMineable_label]の大[lump]</li>
-    <li>questName->[adj][targetMineable_label]</li>
-    <li>questName->[discovered][targetMineable_label]</li>
+    <li>questName->[targetMineableThing_label][lump]</li>
+    <li>questName->[targetMineableThing_label]の[lump]</li>
+    <li>questName->[targetMineableThing_label]の大[lump]</li>
+    <li>questName->[adj][targetMineableThing_label]</li>
+    <li>questName->[discovered][targetMineableThing_label]</li>
 
     <li>lump->資源</li>
     <li>lump->財産</li>

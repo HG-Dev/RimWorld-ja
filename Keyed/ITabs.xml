@@ -59,6 +59,7 @@
   <GetsMedicine>薬を 与えます</GetsMedicine>
   <ShouldTryToRecruit>入村を勧誘</ShouldTryToRecruit>
   <ConsideredGuilty>有罪とする({0})</ConsideredGuilty>
+  <ConsideredGuiltyNoTimer>有罪とされた</ConsideredGuiltyNoTimer>
 
   <!-- Medical - general -->
   <MoveSpeed>移動速度</MoveSpeed>
@@ -149,12 +150,8 @@
   <CopyLogTip>ログをクリップボードにコピーする</CopyLogTip>
 
   <!-- Forming caravan tab -->
-  <FormingCaravanStatus_GatheringAnimals>家畜を集める</FormingCaravanStatus_GatheringAnimals>
-  <FormingCaravanStatus_GatheringAnimals_Pause>家畜を集める(待機中)</FormingCaravanStatus_GatheringAnimals_Pause>
   <FormingCaravanStatus_GatheringItems>アイテムを集める</FormingCaravanStatus_GatheringItems>
   <FormingCaravanStatus_GatheringItems_Pause>アイテムを集める(待機中)</FormingCaravanStatus_GatheringItems_Pause>
-  <FormingCaravanStatus_GatheringSlaves>奴隷を集める</FormingCaravanStatus_GatheringSlaves>
-  <FormingCaravanStatus_GatheringSlaves_Pause>奴隷を集める(待機中)</FormingCaravanStatus_GatheringSlaves_Pause>
   <FormingCaravanStatus_GatheringDownedPawns>行動不能の人を集める</FormingCaravanStatus_GatheringDownedPawns>
   <FormingCaravanStatus_GatheringDownedPawns_Pause>行動不能の人を集める(待機中)</FormingCaravanStatus_GatheringDownedPawns_Pause>
   <FormingCaravanStatus_Leaving>離脱</FormingCaravanStatus_Leaving>

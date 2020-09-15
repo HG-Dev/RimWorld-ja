@@ -118,6 +118,8 @@
 
   <ForceWear>{1_labelShort}に 着替えさせる</ForceWear>
   <CannotWear>{1_label}を 着用できない</CannotWear>
+  <ForceEquipApparel>{1_labelShort}を 強制的に装備させる</ForceEquipApparel>
+  <CannotEquipApparel>{1_label}を 装備できない</CannotEquipApparel>
   <CannotWearBecauseOfMissingBodyParts>欠損部位があって着られない</CannotWearBecauseOfMissingBodyParts>
 
   <Reload>{AMMO_label}を{GEAR_labelShort}に再装填します.</Reload>
