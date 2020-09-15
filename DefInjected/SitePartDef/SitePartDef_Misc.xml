@@ -59,6 +59,7 @@
 
   <PreciousLump.label>希少鉱物の岩塊</PreciousLump.label>
   <PreciousLump.description>この場所には希少鉱物の岩塊があります.</PreciousLump.description>
+  <PreciousLump.mainPartAllThreatsLabel>敵性反応が検出されました.</PreciousLump.mainPartAllThreatsLabel>
 
 
   <!-- PrisonerWillingToJoin.xml-->

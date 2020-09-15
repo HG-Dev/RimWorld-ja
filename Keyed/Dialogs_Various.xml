@@ -291,8 +291,9 @@
   <SellPriceDesc>売却金額</SellPriceDesc>
   <PriceTypeDesc>この価格は {0}です</PriceTypeDesc>
   <ColonyCount>コロニーが取引可能なこのアイテムの数です.\n\nトレードビーコン近くの,軌道上トレーダーにだけアイテムを売ることができます.</ColonyCount>
-  <TraderCount>トレイダーが 持っているアイテム数</TraderCount>
+  <TraderCount>トレーダーが 持っているアイテム数</TraderCount>
   <AcceptButton>許可</AcceptButton>
+  <LoadSelected>選択済を積む</LoadSelected>
   <ResetButton>リセット</ResetButton>
   <CancelButton>中止</CancelButton>
   <CloseButton>閉じる</CloseButton>
@@ -335,7 +336,7 @@
   <Send>送り出す</Send>
   <PawnsTab>メンバー</PawnsTab>
   <ItemsTab>物資</ItemsTab>
-  <FoodAndMedicineTab>食糧と医薬品</FoodAndMedicineTab>
+  <FoodAndMedicineTab>旅行用の消耗品</FoodAndMedicineTab>
   <CaravanMustHaveAtLeastOneColonist>少なくとも,一人はしっかりとした入植者を割り当てなければなりません.</CaravanMustHaveAtLeastOneColonist>
   <CaravanCouldNotFindExitSpot>選択した出発地点({0})への道順がありません.</CaravanCouldNotFindExitSpot>
   <CaravanCouldNotFindPackingSpot>適切な物流拠点を見つけられません.出発地点({0})への道順があるか確認して下さい.</CaravanCouldNotFindPackingSpot>
@@ -398,7 +399,7 @@
   <ForagedNutritionPerDay>栄養素調達量/日</ForagedNutritionPerDay>
   <FactionType>派閥種別</FactionType>
   <TotalBodySize>体格の合計</TotalBodySize>
-  <AutomaticallySelectFoodAndMedicine>食品と医薬品を自動選択</AutomaticallySelectFoodAndMedicine>
+  <AutomaticallySelectFoodAndMedicine>旅行用消耗品を自動選択</AutomaticallySelectFoodAndMedicine>
 
   <!-- Split caravan -->
   <SplitCaravan>キャラバン隊の分割</SplitCaravan>

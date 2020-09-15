@@ -75,6 +75,8 @@
   <Stat_JoyKind_AllTypes>全娯楽種類</Stat_JoyKind_AllTypes>
   <Stat_MineableThing_Name>採掘されたアイテム</Stat_MineableThing_Name>
   <Stat_MineableThing_Desc>これを採掘するときに得られるアイテムです.</Stat_MineableThing_Desc>
+  <Stat_MiningYield_Name>採掘量</Stat_MiningYield_Name>
+  <Stat_MiningYield_Desc>これを採掘するときに生成されるアイテムの最大量です.実際の採掘量は,採掘者の採掘スキルによって調整されます.</Stat_MiningYield_Desc>
   <Stat_SourceSpecies_Name>種族名</Stat_SourceSpecies_Name>
   <Stat_SourceSpecies_Desc>これを採取した元の種族名称です.</Stat_SourceSpecies_Desc>
   <Stat_Stuff_Name>材料</Stat_Stuff_Name>

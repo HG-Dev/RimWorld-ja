@@ -23,7 +23,7 @@
   <GameplayTips.AnimalDeathExplosion>死ぬと爆発する動物もいます.輸送ポッドを使用して,敵に動物を投げつけることもできます.それも考慮してください.</GameplayTips.AnimalDeathExplosion>
   <GameplayTips.CallAllies>戦闘で援軍が必要な場合は,通信器を使って同盟している派閥に連絡しましょう.</GameplayTips.CallAllies>
   <GameplayTips.MaddenedAnimals>狂気に陥った動物は,あなたの敵を含むあらゆる人間を攻撃します.これをうまく利用しましょう.</GameplayTips.MaddenedAnimals>
-  <GameplayTips.EMPDisablesTurretsShields>EMP兵器の爆発は,タレットや迫撃砲シールドや弾丸シールドを一時的に無効化にします.</GameplayTips.EMPDisablesTurretsShields>
+  <GameplayTips.EMPDisablesTurretsShields>EMP兵器の爆発は,タレットやシールドを一時的に無効化にします.</GameplayTips.EMPDisablesTurretsShields>
   <GameplayTips.EMPDisablesPersonalShields>EMP兵器の爆発はシールドベルトのシールドを即時破壊します.</GameplayTips.EMPDisablesPersonalShields>
 
   <!-- Hunting -->

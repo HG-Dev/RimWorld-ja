@@ -701,13 +701,13 @@
 		<titleShort>カウンセラー</titleShort>
 		<desc>[PAWN_nameDef]が10代の若者だった時の恐ろしいトラウマが,[PAWN_objective]過食症にしました.カウンセリングで,[PAWN_pronoun]は,食べ物との健全な関係を学び,[PAWN_pronoun]は,感情に基づいた問題に打ち勝つ手助けをする事に,[PAWN_possessive]新しいスキルを使うことに決めました.</desc>
 	</Counselor26>
-	<Recruiter4>
+	<Recruiter14>
 		<title>採用係</title>
 		<titleShort>採用係</titleShort>
 		<desc>[PAWN_nameDef]は,その戦闘スキルと,その負傷を治療することを拒否する,評判の悪い両方を合わせ持った格闘技を敬愛しています.
 
 [PAWN_pronoun]は,[PAWN_possessive]母星内を旅行し,[PAWN_pronoun]が会った若者で,トレーニングに適当であると判断した者の審査をしています.</desc>
-	</Recruiter4>
+	</Recruiter14>
 	<Drifter67>
 		<title>根無し草</title>
 		<titleShort>根無し草</titleShort>
