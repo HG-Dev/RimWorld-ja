@@ -201,7 +201,7 @@
   <DifficultyGeneralSection>総合</DifficultyGeneralSection>
   <Difficulty_ColonistMoodOffset_Label>入植者の心情</Difficulty_ColonistMoodOffset_Label>
   <Difficulty_ColonistMoodOffset_Info>すべての入植者と囚人に適用される永続的な心情オフセット値です.入植者の基本心情値は50%です.</Difficulty_ColonistMoodOffset_Info>
-  <Difficulty_FoodPoisonChanceFactor_Label>食器中毒発生率</Difficulty_FoodPoisonChanceFactor_Label>
+  <Difficulty_FoodPoisonChanceFactor_Label>食中毒発生率</Difficulty_FoodPoisonChanceFactor_Label>
   <Difficulty_FoodPoisonChanceFactor_Info>食中毒になる可能性のある食事を食べた人が,食中毒になる確率を調整します.</Difficulty_FoodPoisonChanceFactor_Info>
   <Difficulty_ManhunterChanceOnDamageFactor_Label>動物の反撃率</Difficulty_ManhunterChanceOnDamageFactor_Label>
   <Difficulty_ManhunterChanceOnDamageFactor_Info>野生動物を傷つけた際に反撃される確率を調整します.</Difficulty_ManhunterChanceOnDamageFactor_Info>
