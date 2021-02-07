@@ -5045,6 +5045,18 @@ Markusは,古参兵でした - [PAWN_pronoun]は,好戦的な亜人間襲撃者�
 
 [PAWN_possessive]傭兵隊長だった時,[PAWN_pronoun]は社交的で穏やかなことで知られていましたが,これは多分ジョイワイヤーのおかげかもしれません.</desc>
 	</MercenaryCaptain56>
+	<CuriousChild33>
+		<title>好奇心が強い子供</title>
+		<titleShort>知りたがり</titleShort>
+		<desc>[PAWN_nameDef]は,住人よりも,世界のシステムや法則性に興味を持っていました.その結果[PAWN_possessive]の社交スキルは低下しました.
+
+[PAWN_nameDef]は,すべてのものは全体の一部に過ぎず,その一部分を破壊することはすべてを破壊することと同じであると理解するようになりました.</desc>
+	</CuriousChild33>
+	<Restorer70>
+		<title>修復家</title>
+		<titleShort>修復家</titleShort>
+		<desc>[PAWN_nameDef]は世界中を旅して,常に人のために修復するべき古くて忘れ去られたものを探し続け,あらゆるものの真の美しさを復元しようと努力しました.</desc>
+	</Restorer70>
 	<Punk30>
 		<title>パンク</title>
 		<titleShort>パンク</titleShort>
