@@ -57,7 +57,7 @@
   <PawnHasTheseRelationshipsWithColonists>{1_labelShort}は,入植者達と,これらの関係を持っています:</PawnHasTheseRelationshipsWithColonists>
 
   <LetterLabelAncientShrineWarning>太古の脅威</LetterLabelAncientShrineWarning>
-  <AncientShrineWarning>予感が,近くにある古代建造物に {0}を 引き寄せました.なぜだか解りませんが,この塵と埃にまみれた廃墟は,大きな危険をはらんでいると {PAWN_pronoun} は感じています.</AncientShrineWarning>
+  <AncientShrineWarning>{PAWN_nameDef}が太古の壁に近づくと,嫌な予感が{PAWN_objective}襲いました.{PAWN_pronoun}にも理由は判りませんが,この塵と埃にまみれた廃墟には,大きな危険が隠れていると{PAWN_pronoun}は感じています.</AncientShrineWarning>
 
   <StruckMineable>{0}の鉱脈に突き当たった!</StruckMineable>
 
@@ -258,9 +258,9 @@
 
   <!-- Surgery -->
   <LetterLabelSurgeryFailed>{PATIENT_labelShort}の手術に失敗しました</LetterLabelSurgeryFailed>
-  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort}は,{PATIENT_labelShort}の（{RECIPE_label}）手術中に,わずかなミスを犯しました.</MessageMedicalOperationFailureMinor>
-  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort}は,{PATIENT_labelShort}の（{RECIPE_label}）手術中に,致命的なミスを犯しました.</MessageMedicalOperationFailureCatastrophic>
-  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort}は,{PATIENT_labelShort}の({RECIPE_label})手術中に,とんでもない失敗をしました.</MessageMedicalOperationFailureRidiculous>
+  <MessageMedicalOperationFailureMinor>{SURGEON_labelShort}は,{PATIENT_labelShort}の手術中に,わずかなミスを犯しました.({RECIPE_label})</MessageMedicalOperationFailureMinor>
+  <MessageMedicalOperationFailureCatastrophic>{SURGEON_labelShort}は,{PATIENT_labelShort}の手術中に,わずかなミスを犯しました.({RECIPE_label})</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureRidiculous>{SURGEON_labelShort}は,{PATIENT_labelShort}の手術中に,わずかなミスを犯しました.({RECIPE_label})</MessageMedicalOperationFailureRidiculous>
   <MessageMedicalOperationFailureFatal>{SURGEON_labelShort}は,{PATIENT_labelShort}の手術中に,重大なミスを犯した.なぜなら特殊な挑戦を行ったからです: {2}</MessageMedicalOperationFailureFatal>
 
   <!-- Quests -->
