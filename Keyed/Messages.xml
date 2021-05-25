@@ -192,7 +192,7 @@
   <MessageTransportPodsArrivedAndAddedToCaravan>あなたの輸送ポッドは,いま到着しました.積み荷は{0}に追加されました.</MessageTransportPodsArrivedAndAddedToCaravan>
 
   <MessageFinishedLoadingTransporters>たった今,輸送ポッドへの積み込みを終了しました.</MessageFinishedLoadingTransporters>
-  <MessageFinishedLoadingTransporterSingle>シャトルには必要な荷物が積み込まれて準備は完了ました.いつでも打ち上げ可能です.</MessageFinishedLoadingTransporterSingle>
+  <MessageFinishedLoadingTransporterSingle>シャトルには必要な荷物が積み込まれて準備は完了しました.いつでも打ち上げ可能です.</MessageFinishedLoadingTransporterSingle>
 
   <MessageCantLoadMoreIntoTransporters>{1}は 輸送ポッドへの積み込みを完了できません,いくつかのヒト・モノを手に入れられません({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
 
