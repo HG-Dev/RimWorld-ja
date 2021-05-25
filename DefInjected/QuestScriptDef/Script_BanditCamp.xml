@@ -19,7 +19,7 @@
   <OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>クエスト失敗：[resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>
   <OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>山賊キャンプは準備が整って,移動しました.</OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>
   <OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>報酬が届いた</OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>
-  <OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>盗賊キャンプを討伐しました！\n\n[asker_faction_name]からの報酬が届きました。</OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>山賊キャンプを討伐しました！\n\n[asker_faction_name]からの報酬が届きました.</OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>
   <OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>
   <OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>これらの入植者たちは,[resolvedQuestName]探索の戦いと勝利に参加しました.[asker_definite]は,このクエスト報酬として[royalFavorReward_amount][asker_faction_royalFavorLabel]を誰が受けとるのか知りたがっています.</OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
 

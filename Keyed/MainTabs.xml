@@ -155,9 +155,10 @@
   <QuestBedroomRequirementsUnsatisfiedSingle>タイトルの要件を満たす無料のベッドルーム一室</QuestBedroomRequirementsUnsatisfiedSingle>
   <QuestThroneRoomRequirementsUnsatisfied>{PAWN_definite}の爵位「{TITLE}」の条件(玉座の部屋)が満たされてない</QuestThroneRoomRequirementsUnsatisfied>
   <QuestNoThroneRoom>{PAWN_definite}の爵位「{TITLE}」の条件を満たす玉座の部屋がない</QuestNoThroneRoom>
-  <QuestNoColonistWithTitle>爵位が{0}の入植者です</QuestNoColonistWithTitle>
-  <QuestPawnNotOnColonyMap>{PAWN_definite}はホームベースのコロニーに居る必要があります</QuestPawnNotOnColonyMap>
+  <QuestNoColonistWithTitle>爵位が{0}の入植者です.</QuestNoColonistWithTitle>
+  <QuestPawnNotOnColonyMap>{PAWN_definite}はホームベースのコロニーに居ます.</QuestPawnNotOnColonyMap>
   <QuestRequiresNoDangerOnMap>受勲者の派閥の敵がマップに存在しない</QuestRequiresNoDangerOnMap>
+  <QuestCanNotStartUntilBestowingCeremonyFinished>進行中の授与式クエストを終了する</QuestCanNotStartUntilBestowingCeremonyFinished>
   <ChooseRewards>報酬の希望</ChooseRewards>
   <ChooseRewardsDesc>他の派閥に将来クエストでどのような種類の報酬を希望するか選択してください.これは,すでに提示されているクエストには影響しません.</ChooseRewardsDesc>
   <AcceptRoyalFavor>{FACTION_royalFavorLabel}を承諾する</AcceptRoyalFavor>

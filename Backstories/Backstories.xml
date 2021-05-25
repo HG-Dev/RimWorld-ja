@@ -3289,7 +3289,7 @@ Littleは,彼の知っている事をし,Bennは,彼の人生を変える可能�
 	<RichBoy9>
 		<title>お大尽な子</title>
 		<titleShort>裕福な子</titleShort>
-		<desc>[PAWN_nameDef]は,ミッドワールド(Midworld)で親の愛と,可愛いペット,たくさんのお金に恵まれて育ちました - 友達は一人もいませんが.
+		<desc>[PAWN_nameDef]は,ミッドワールド(Midworld)で親の愛と,可愛いペット,たくさんのお金に恵まれて育ちました－友達は一人もいませんが.
 
 [PAWN_pronoun]は,[PAWN_possessive]父から,「貧乏人の奴らは,金だけが目当てだ」と,いつも言われていました.ですから,[PAWN_pronoun]は,ほとんどの時間,独りでいるか,他の子供とケンカして過ごしました.</desc>
 	</RichBoy9>
@@ -3690,7 +3690,7 @@ Mattは,彼の仲間から,ゲリラ戦術のトレーニングと,戦闘方法�
 	<ReptileResearcher37>
 		<title>爬虫類学者</title>
 		<titleShort>学者</titleShort>
-		<desc>両親のブドウ園を離れて,[PAWN_nameDef]は,たくさんの知られた世界を見て回り,その途中で多くのスキルを身に付けました.
+		<desc>[PAWN_nameDef]は,両親のブドウ園を離れてたくさんの知られた世界を見て回り,その途中で多くのスキルを身に付けました.
 
 [PAWN_pronoun]は殆どの時間を,爬虫類の研究と交流に費やしていました.[PAWN_pronoun]は,数多くの新発見と,"モロクトカゲ"の発見で名声を得ました.</desc>
 	</ReptileResearcher37>
@@ -5038,13 +5038,25 @@ Markusは,古参兵でした - [PAWN_pronoun]は,好戦的な亜人間襲撃者�
 
 残念なことに,[PAWN_possessive]暴力的な性質によって,[PAWN_possessive]曲芸師としての経歴はあっという間に終わりました.</desc>
 	</OrphanedAcrobat84>
-	<MercenaryCaptain56>
+	<MercenaryCaptain98>
 		<title>傭兵隊長</title>
 		<titleShort>部隊長</titleShort>
-		<desc>[PAWN_pronoun]は傭兵船の乗組員の一人でした.規律正しく自信に満ちた[PAWN_nameDef]は,すぐに昇進して,友達を増やしました.
+		<desc>[PAWN_nameDef]は傭兵船の乗組員の一人でした.規律正しく自信に満ちた[PAWN_pronoun]は,すぐに昇進して,友達を増やしました.
 
 [PAWN_possessive]傭兵隊長だった時,[PAWN_pronoun]は社交的で穏やかなことで知られていましたが,これは多分ジョイワイヤーのおかげかもしれません.</desc>
-	</MercenaryCaptain56>
+	</MercenaryCaptain98>
+	<CuriousChild33>
+		<title>好奇心が強い子供</title>
+		<titleShort>知りたがり</titleShort>
+		<desc>[PAWN_nameDef]は,世界の中に居る住人よりも,世界のシステムや法則性に強い興味を持っていました.その結果[PAWN_possessive]社交スキルは低下しました.
+
+[PAWN_nameDef]は,すべてのものは全体の一部に過ぎず,その一部分を破壊することはすべてを破壊することと同じであると理解するようになりました.</desc>
+	</CuriousChild33>
+	<Restorer70>
+		<title>修復家</title>
+		<titleShort>修復家</titleShort>
+		<desc>[PAWN_nameDef]は,人のために修理しなければならない,古くて忘れられたものをいつも探し続け,あらゆる物に隠された真の美を見出そうとしていました.</desc>
+	</Restorer70>
 	<Punk30>
 		<title>パンク</title>
 		<titleShort>パンク</titleShort>
