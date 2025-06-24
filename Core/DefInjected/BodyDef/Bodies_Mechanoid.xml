@@ -49,7 +49,7 @@
   <Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>右足</Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>
   
   <!-- EN: mechanical centipede -->
-  <MechanicalCentipede.label>機械化ムカデ</MechanicalCentipede.label>
+  <MechanicalCentipede.label>ムカデ</MechanicalCentipede.label>
   <!-- EN: left sight sensor -->
   <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>左視覚センサ</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->
@@ -60,7 +60,7 @@
   <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>右聴覚センサ</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
   
   <!-- EN: mechanical termite -->
-  <MechanicalTermite.label>機械化シロアリ</MechanicalTermite.label>
+  <MechanicalTermite.label>ターマイト</MechanicalTermite.label>
   <!-- EN: left sight sensor -->
   <MechanicalTermite.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>左視覚センサ</MechanicalTermite.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->
@@ -98,7 +98,7 @@
   <Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>右後足</Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
   
   <!-- EN: scyther -->
-  <Scyther.label>機械化カマキリ</Scyther.label>
+  <Scyther.label>サイサー</Scyther.label>
   <!-- EN: left sight sensor -->
   <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>左視覚センサ</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->

@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: centipede blaster -->
-  <Mech_CentipedeBlaster.label>ブラスター型機械化ムカデ</Mech_CentipedeBlaster.label>
+  <Mech_CentipedeBlaster.label>ブラスター型ムカデ</Mech_CentipedeBlaster.label>
   
   <!-- EN: centipede burner -->
-  <Mech_CentipedeBurner.label>バーナー型機械化ムカデ</Mech_CentipedeBurner.label>
+  <Mech_CentipedeBurner.label>バーナー型ムカデ</Mech_CentipedeBurner.label>
   
   <!-- EN: centipede gunner -->
-  <Mech_CentipedeGunner.label>ガンナー型機械化ムカデ</Mech_CentipedeGunner.label>
+  <Mech_CentipedeGunner.label>ガンナー型ムカデ</Mech_CentipedeGunner.label>
   
   <!-- EN: lancer -->
   <Mech_Lancer.label>ランサー</Mech_Lancer.label>
@@ -19,6 +19,6 @@
   <Mech_Pikeman.labelPlural>パイクマン</Mech_Pikeman.labelPlural>
   
   <!-- EN: scyther -->
-  <Mech_Scyther.label>機械化カマキリ</Mech_Scyther.label>
+  <Mech_Scyther.label>サイサー</Mech_Scyther.label>
   
 </LanguageData>

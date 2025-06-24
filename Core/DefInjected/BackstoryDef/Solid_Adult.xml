@@ -1799,8 +1799,8 @@
   <SoftwareDeveloper84.titleShort>開発者</SoftwareDeveloper84.titleShort>
   
   <!-- EN: [PAWN_nameDef] lived in a remote colony. When mechanoid centipedes attacked [PAWN_possessive] home and killed [PAWN_possessive] people, [PAWN_pronoun] was the last survivor. -->
-  <SoleSurvivor85.description>[PAWN_nameDef]は人里離れたコロニーに住んでいました.[PAWN_possessive]コロニーが機械化ムカデに襲われ,人々が殺されたとき,[PAWN_pronoun]は最後の生存者となりました.</SoleSurvivor85.description>
-  <SoleSurvivor85.baseDesc>[PAWN_nameDef]は人里離れたコロニーに住んでいました.[PAWN_possessive]コロニーが機械化ムカデに襲われ,人々が殺されたとき,[PAWN_pronoun]は最後の生存者となりました.</SoleSurvivor85.baseDesc>
+  <SoleSurvivor85.description>[PAWN_nameDef]は人里離れたコロニーに住んでいました.[PAWN_possessive]コロニーがメカノイドのムカデに襲われ,人々が殺されたとき,[PAWN_pronoun]は最後の生存者となりました.</SoleSurvivor85.description>
+  <SoleSurvivor85.baseDesc>[PAWN_nameDef]は人里離れたコロニーに住んでいました.[PAWN_possessive]コロニーがメカノイドのムカデに襲われ,人々が殺されたとき,[PAWN_pronoun]は最後の生存者となりました.</SoleSurvivor85.baseDesc>
   <!-- EN: sole survivor -->
   <SoleSurvivor85.title>ただひとりの生存者</SoleSurvivor85.title>
   <!-- EN: survivor -->
