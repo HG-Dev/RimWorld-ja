@@ -1356,7 +1356,7 @@
   <!-- EN: skilltrainer ({0}) -->
   <SkillNeurotrainerLabel>スキルトレイナー ({0})</SkillNeurotrainerLabel>
   <!-- EN: Use skilltrainer to learn {0} -->
-  <SkillNeurotrainerUseLabel>{0}を身につけるためスキルトレイナーを使う</SkillNeurotrainerUseLabel>
+  <SkillNeurotrainerUseLabel>スキルトレイナーを使って{0}の知識を得る</SkillNeurotrainerUseLabel>
   <!-- EN: A one-use super-dose of mechanites which trains a specific skill.\n\nThe dose is administered through the orbit of the eye. Once released into the brain, the mechanites quickly improve the subject's skills in a specific area, transmuting themselves into neural tissue as needed. -->
   <SkillNeurotrainerDescription>一度だけ使用可能な,特定のスキルを身に付けられるメカナイトの超薬物です.\n\nこの薬物は眼窩から投与します.脳に散布されると,メカナイトは目的のスキルを即座に改善するために,特定の領域で必要に応じた神経組織に変形します.</SkillNeurotrainerDescription>
   <!-- EN: {USER_labelShort} used {1} neurotrainer to go from level {2} to level {3}. -->
