@@ -9,12 +9,17 @@
   <!-- EN: recon helmet -->
   <Apparel_ArmorHelmetRecon.label>レコンヘルメット</Apparel_ArmorHelmetRecon.label>
   <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces. -->
-  <Apparel_ArmorHelmetRecon.description>ステータス管理コンピューターが内蔵され,プラスチール繊維の積層装甲板で守られたハイテク装甲ヘルメットです.\n\nこのアーマーは通常,グリッターワールドポリスや,帝国偵察部隊によって使用されます.</Apparel_ArmorHelmetRecon.description>
+  <Apparel_ArmorHelmetRecon.description>ステータス管理コンピューターが内蔵され,プラスチール繊維の積層装甲板で守られたハイテク装甲ヘルメットです.\n\nこのアーマーは通常,Glitterworldの警備隊や,帝国偵察部隊によって使用されます.</Apparel_ArmorHelmetRecon.description>
   
   <!-- EN: bowler hat -->
   <Apparel_BowlerHat.label>山高帽</Apparel_BowlerHat.label>
   <!-- EN: A good-looking hat which projects a slightly urban, money-loving style. Improves social impact. -->
   <Apparel_BowlerHat.description>やや都会的で,ナリキン風のカッコイイ帽子です.人へのインパクトが大です.</Apparel_BowlerHat.description>
+  
+  <!-- EN: face mask -->
+  <Apparel_ClothMask.label>フェイスマスク</Apparel_ClothMask.label>
+  <!-- EN: A piece of fabric which covers the wearer's mouth and nose with several layers of textile. It is remarkably effective in reducing the effects of environmental toxins. -->
+  <Apparel_ClothMask.description>数層の生地で装着者の口と鼻を覆うための,布の切れ端です.環境中の毒素の影響を大幅に減少差せます.</Apparel_ClothMask.description>
   
   <!-- EN: cowboy hat -->
   <Apparel_CowboyHat.label>カウボーイハット</Apparel_CowboyHat.label>

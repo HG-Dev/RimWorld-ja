@@ -18,7 +18,7 @@
   <!-- EN: tentacle -->
   <Bulbfreak.tools.tentacle-4.label>触手</Bulbfreak.tools.tentacle-4.label>
   <!-- EN: head -->
-  <Bulbfreak.tools.head.label>頭</Bulbfreak.tools.head.label>
+  <Bulbfreak.tools.head.label>頭部</Bulbfreak.tools.head.label>
   
   <!-- EN: dreadmeld -->
   <Dreadmeld.label>ドレッドメルド</Dreadmeld.label>
@@ -29,7 +29,7 @@
   <!-- EN: Dreadmeld released -->
   <Dreadmeld.comps.CompLetterOnRevealed.label>ドレッドメルドの解放</Dreadmeld.comps.CompLetterOnRevealed.label>
   <!-- EN: You've discovered a fleshbeast dreadmeld! This mammoth creature seems to be made up of dozens of smaller fleshbeasts.\n\nIt appears to have some psychic connection to the fleshmass that supports this cavern. Killing it may destabilize the entire cave system. -->
-  <Dreadmeld.comps.CompLetterOnRevealed.text>フレッシュビースト・ドレッドメルドを発見しました！この巨大な生物は何十体もの小さなフレッシュビーストが集まってできているようです.\n\nドレッドメルドはどうやら,この洞窟を支えている肉体と何らかの精神的なつながりを持っているようです.殺すことで,洞窟全体が不安定化するかもしれません.</Dreadmeld.comps.CompLetterOnRevealed.text>
+  <Dreadmeld.comps.CompLetterOnRevealed.text>フレッシュビースト・ドレッドメルドを発見しました!この巨大な生物は何十体もの小さなフレッシュビーストが集まってできているようです.\n\nドレッドメルドはどうやら,この洞窟を支えている肉体と何らかの精神的なつながりを持っているようです.殺すことで,洞窟全体が不安定化するかもしれません.</Dreadmeld.comps.CompLetterOnRevealed.text>
   <!-- EN: left spike -->
   <Dreadmeld.tools.left_spike.label>左棘</Dreadmeld.tools.left_spike.label>
   <!-- EN: spike -->
@@ -39,7 +39,7 @@
   <!-- EN: spike -->
   <Dreadmeld.tools.right_spike.labelNoLocation>棘</Dreadmeld.tools.right_spike.labelNoLocation>
   <!-- EN: head -->
-  <Dreadmeld.tools.head.label>頭</Dreadmeld.tools.head.label>
+  <Dreadmeld.tools.head.label>頭部</Dreadmeld.tools.head.label>
   
   <!-- EN: fingerspike -->
   <Fingerspike.label>フィンガースパイク</Fingerspike.label>
@@ -52,7 +52,7 @@
   <!-- EN: spike -->
   <Fingerspike.tools.spike.labelNoLocation>棘</Fingerspike.tools.spike.labelNoLocation>
   <!-- EN: head -->
-  <Fingerspike.tools.head.label>頭</Fingerspike.tools.head.label>
+  <Fingerspike.tools.head.label>頭部</Fingerspike.tools.head.label>
   
   <!-- EN: toughspike -->
   <Toughspike.label>タフスパイク</Toughspike.label>
@@ -69,7 +69,7 @@
   <!-- EN: spike -->
   <Toughspike.tools.right_spike.labelNoLocation>棘</Toughspike.tools.right_spike.labelNoLocation>
   <!-- EN: head -->
-  <Toughspike.tools.head.label>頭</Toughspike.tools.head.label>
+  <Toughspike.tools.head.label>頭部</Toughspike.tools.head.label>
   
   <!-- EN: trispike -->
   <Trispike.label>トライスパイク</Trispike.label>
@@ -90,6 +90,6 @@
   <!-- EN: spike -->
   <Trispike.tools.top_spike.labelNoLocation>棘</Trispike.tools.top_spike.labelNoLocation>
   <!-- EN: head -->
-  <Trispike.tools.head.label>頭</Trispike.tools.head.label>
+  <Trispike.tools.head.label>頭部</Trispike.tools.head.label>
   
 </LanguageData>

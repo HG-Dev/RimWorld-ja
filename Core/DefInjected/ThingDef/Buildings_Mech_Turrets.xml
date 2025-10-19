@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: auto-mortar -->
+  <Artillery_AutoMortar.label>自動迫撃砲</Artillery_AutoMortar.label>
+  <!-- EN: auto-mortar -->
+  <Artillery_AutoMortar.verbs.Verb_Shoot.label>自動迫撃砲</Artillery_AutoMortar.verbs.Verb_Shoot.label>
+  
+  <!-- EN: light charge blaster -->
+  <Gun_ChargeBlasterHeavyTurret.label>ライトチャージブラスター</Gun_ChargeBlasterHeavyTurret.label>
+  <!-- EN: A pulse-charged rapid-fire blaster for area fire. -->
+  <Gun_ChargeBlasterHeavyTurret.description>領域制圧用のパルスチャージ弾を高速発射するブラスターです.</Gun_ChargeBlasterHeavyTurret.description>
+  <!-- EN: barrel -->
+  <Gun_ChargeBlasterHeavyTurret.tools.barrel.label>銃身</Gun_ChargeBlasterHeavyTurret.tools.barrel.label>
+  <!-- EN: light charge blaster -->
+  <Gun_ChargeBlasterHeavyTurret.verbs.Verb_Shoot.label>ライトチャージブラスター</Gun_ChargeBlasterHeavyTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: inferno cannon -->
+  <Gun_InfernoCannonTurret.label>焼夷弾投射機</Gun_InfernoCannonTurret.label>
+  <!-- EN: An incendiary-shot mini-artillery device. It fires a large incendiary warhead. -->
+  <Gun_InfernoCannonTurret.description>放火用小型砲撃兵器です.大型焼夷弾を放ちます.</Gun_InfernoCannonTurret.description>
+  <!-- EN: barrel -->
+  <Gun_InfernoCannonTurret.tools.barrel.label>銃身</Gun_InfernoCannonTurret.tools.barrel.label>
+  <!-- EN: inferno cannon -->
+  <Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>焼夷弾投射機</Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: auto charge turret -->
+  <Turret_AutoChargeBlaster.label>オートチャージタレット</Turret_AutoChargeBlaster.label>
+  <!-- EN: A self-powered turret mounted with a charge blaster. It cannot sense targets at very short ranges. -->
+  <Turret_AutoChargeBlaster.description>チャージブラスターを装着した自己給電式タレットです.超短距離内のターゲットは感知できません.</Turret_AutoChargeBlaster.description>
+  
+  <!-- EN: auto inferno turret -->
+  <Turret_AutoInferno.label>オートインフェルノタレット</Turret_AutoInferno.label>
+  <!-- EN: A self-powered turret mounted with an inferno cannon. It cannot sense targets at very short ranges. -->
+  <Turret_AutoInferno.description>焼夷弾投射機を装着した自己給電式タレットです.超短距離内のターゲットは感知できません.</Turret_AutoInferno.description>
+  
+  <!-- EN: auto mortar -->
+  <Turret_AutoMortar.label>自動迫撃砲</Turret_AutoMortar.label>
+  <!-- EN: A self-powered, self-loading, automatic mortar. It can hit targets at any distance, over walls, but is quite inaccurate. -->
+  <Turret_AutoMortar.description>自己給電,自己装填の自動式迫撃砲.壁を超えてあらゆる距離の目標を攻撃できますが,とても不正確です.</Turret_AutoMortar.description>
+  
+</LanguageData>

@@ -386,7 +386,7 @@
   <QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>右後掌</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
   
   <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithPawsAndTail.label>四足動物(b)</QuadrupedAnimalWithPawsAndTail.label>
+  <QuadrupedAnimalWithPawsAndTail.label>四足動物</QuadrupedAnimalWithPawsAndTail.label>
   <!-- EN: left lung -->
   <QuadrupedAnimalWithPawsAndTail.corePart.parts.left_lung.customLabel>左肺</QuadrupedAnimalWithPawsAndTail.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
@@ -431,9 +431,9 @@
   <!-- EN: right kidney -->
   <TurtleLike.corePart.parts.right_kidney.customLabel>右腎</TurtleLike.corePart.parts.right_kidney.customLabel>
   <!-- EN: left eye -->
-  <TurtleLike.corePart.parts.Head.parts.left_eye.customLabel>左眼</TurtleLike.corePart.parts.Head.parts.left_eye.customLabel>
+  <TurtleLike.corePart.parts.HeadWithEarHoles.parts.left_eye.customLabel>左眼</TurtleLike.corePart.parts.HeadWithEarHoles.parts.left_eye.customLabel>
   <!-- EN: right eye -->
-  <TurtleLike.corePart.parts.Head.parts.right_eye.customLabel>右眼</TurtleLike.corePart.parts.Head.parts.right_eye.customLabel>
+  <TurtleLike.corePart.parts.HeadWithEarHoles.parts.right_eye.customLabel>右眼</TurtleLike.corePart.parts.HeadWithEarHoles.parts.right_eye.customLabel>
   <!-- EN: front left leg -->
   <TurtleLike.corePart.parts.front_left_leg.customLabel>左前脚</TurtleLike.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front right leg -->

@@ -56,7 +56,7 @@
   <!-- EN: drug overdose -->
   <DrugOverdose.label>ドラッグの過剰摂取</DrugOverdose.label>
   <!-- EN: Generalized toxic effects due to over-concentration of drugs in the bloodstream. -->
-  <DrugOverdose.description>ドラッグの過剰摂取による血中濃度の上昇によって中毒症状が起きています.</DrugOverdose.description>
+  <DrugOverdose.description>ドラッグの過剰摂取によって血中濃度が上昇し,中毒症状が起きています.</DrugOverdose.description>
   <!-- EN: Overdose: {0} -->
   <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>過剰摂取: {0}</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>
   <!-- EN: {0} is overdosing! -->
@@ -143,10 +143,6 @@
   <ResurrectionSickness.label>蘇生後遺症</ResurrectionSickness.label>
   <!-- EN: After-effects of resurrection. Artificially-restarted body processes take time to rebalance themselves. -->
   <ResurrectionSickness.description>蘇生処置の後遺症です.人工的な蘇生行為による身体プロセスは,バランスを取り戻すのに時間がかかります.</ResurrectionSickness.description>
-  
-  <!-- UNUSED -->
-  <TempHateChantFX.label>開発：憎悪の詠唱 FX</TempHateChantFX.label>
-  <TempHateChantFX.description>トレーラー終了後に削除</TempHateChantFX.description>
   
   <!-- EN: toxic buildup -->
   <ToxicBuildup.label>毒物が蓄積</ToxicBuildup.label>

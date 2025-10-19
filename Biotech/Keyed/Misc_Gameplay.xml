@@ -26,11 +26,15 @@
   <!-- EN: {0} mechs -->
   <CaravanMechsCount>{0}メカ</CaravanMechsCount>
   <!-- EN: {BOSS} with {APPAREL} -->
-  <BossWithApparel>{APPAREL}を着た{BOSS}</BossWithApparel>
+  <BossWithApparel>{APPAREL}を装備した\n    {BOSS}</BossWithApparel>
+  <!-- EN: Resulting from gene -->
+  <ComesFromGene>遺伝子に起因</ComesFromGene>
 
   <!-- Job reports -->
   <!-- EN: removing {0}. -->
   <ReportRemovingMechlink>{0}を取り外しています.</ReportRemovingMechlink>
+  <!-- EN: from {TEACHER_labelShort} -->
+  <ReportTakingLessonFrom>{TEACHER_labelShort}から</ReportTakingLessonFrom>
 
   <!-- Areas -->
   <!-- EN: Pollution clear -->
@@ -76,13 +80,13 @@
   <!-- EN: Groups -->
   <Groups>グループ</Groups>
   <!-- EN: Loading mech gestation resources -->
-  <LoadingMechGestator>メカ培養の資源を積んでいる</LoadingMechGestator>
+  <LoadingMechGestator>メカ培養に資源を運んでいる</LoadingMechGestator>
   <!-- EN: Time left this cycle -->
   <GestatingInspect>このサイクルの残り時間</GestatingInspect>
   <!-- EN: Initiating mech gestation cycle -->
-  <InitMechGestationCycle>メカ培養サイクルを開始</InitMechGestationCycle>
+  <InitMechGestationCycle>メカ培養サイクルを始めている</InitMechGestationCycle>
   <!-- EN: Initiating mech birth -->
-  <InitMechBirth>メカ誕生を開始</InitMechBirth>
+  <InitMechBirth>メカを誕生させている</InitMechBirth>
   <!-- EN: Mech energy -->
   <MechEnergy>メカエネルギー</MechEnergy>
   <!-- EN: Energy -->
@@ -96,9 +100,11 @@
   <!-- EN: Cannot summon {0} threat -->
   <CannotSummon>{0}の脅威を呼び出せない</CannotSummon>
   <!-- EN: {0} threat ready to summon -->
-  <ReadyToSummonThreat>{0}の脅威を呼び出す準備が完了</ReadyToSummonThreat>
+  <ReadyToSummonThreat>{0}の脅威を呼び出せる</ReadyToSummonThreat>
   <!-- EN: Summon {0} threat -->
   <Summon>{0}の脅威を呼び出す</Summon>
+  <!-- EN: Mechanoids disabled -->
+  <MechsDisabled>メカノイドが無効</MechsDisabled>
   <!-- EN: No reachable {0} -->
   <NoReachableBossgroupCaller>{0}に到達できない</NoReachableBossgroupCaller>
   <!-- EN: No reservable {0} -->
@@ -108,7 +114,7 @@
   <!-- EN: already used -->
   <AlreadyUsed>既に使われている</AlreadyUsed>
   <!-- EN: Gestating -->
-  <Gestating>培養している</Gestating>
+  <Gestating>培養中</Gestating>
   <!-- EN: Escorting {TARGET_labelShort}. -->
   <Escorting>{TARGET_labelShort}を護衛しています.</Escorting>
   <!-- EN: Worker -->
@@ -176,9 +182,9 @@
   <!-- EN: Never consume hemogen. -->
   <NeverConsumeHemogen>ヘモゲンを決して補充しません.</NeverConsumeHemogen>
   <!-- EN: Will kill -->
-  <WillKill>殺す</WillKill>
+  <WillKill>死亡する</WillKill>
   <!-- EN: Will cause major blood loss -->
-  <WillCauseSeriousBloodloss>大量失血の原因になる</WillCauseSeriousBloodloss>
+  <WillCauseSeriousBloodloss>大量失血を起こす</WillCauseSeriousBloodloss>
   <!-- EN: too small -->
   <TooSmall>小さすぎる</TooSmall>
 
@@ -196,7 +202,7 @@
   <!-- EN: Already bound to {0_nameDef} -->
   <CannotAssignAlreadyBound>すでに{0_nameDef}に接続されている</CannotAssignAlreadyBound>
   <!-- EN: Cannot bind to more {BUILDING_labelPlural} -->
-  <CannotAssignBedCannotBindToMoreBuildings>これ以上{BUILDING_labelPlural}に接続できない</CannotAssignBedCannotBindToMoreBuildings>
+  <CannotAssignBedCannotBindToMoreBuildings>これより多くの{BUILDING_labelPlural}に接続できない</CannotAssignBedCannotBindToMoreBuildings>
 
   <!-- Aptitudes -->
   <!-- EN: aptitude -->
@@ -247,12 +253,6 @@
   <BirthRitualHealthyBabyChance>この品質レベルでの健康な出産の可能性は{0_percentage}です.</BirthRitualHealthyBabyChance>
   <!-- EN: Giving birth. -->
   <GivingBirth>出産します.</GivingBirth>
-
-  <!-- Shield comp -->
-  <!-- EN: Shield energy -->
-  <ShieldEnergy>シールドエネルギー</ShieldEnergy>
-  <!-- EN: Time to recovery -->
-  <ShieldTimeToRecovery>リカバリーまでの時間</ShieldTimeToRecovery>
 
   <!-- Genes -->
   <!-- EN: genes -->
@@ -356,7 +356,7 @@
   <!-- EN: Order implantation -->
   <ImplantXenogerm>移植予約</ImplantXenogerm>
   <!-- EN: Implant this into a person to partially override their genetic code.\n\nThis is a surgical operation, so it requires a doctor, medical bed and {MEDICINEAMOUNT} medicine. -->
-  <ImplantXenogermDesc>これを人に移植して,遺伝子コードを部分的に上書きします.\n\nこれは外科手術なので,医師と医療ベッド,そして{MEDICINEAMOUNT}の薬が必要です.</ImplantXenogermDesc>
+  <ImplantXenogermDesc>これを人に移植して,遺伝子コードを部分的に上書きします.\n\nこれは外科手術なので,医師と医療用ベッド,そして{MEDICINEAMOUNT}の薬が必要です.</ImplantXenogermDesc>
   <!-- EN: Implanting a xenogerm will put {PAWN_nameDef} in a coma as the xenogerm integrates itself. On average, this lasts for {COMADURATION}. The length of the coma is dependent on the doctor's medical skill and the quality of your medical facilities. -->
   <ImplantXenogermWarningDesc>異種胚を移植すると,異種胚が{PAWN_nameDef}自身と統合するため,昏睡状態になります.これは平均で{COMADURATION}の間続きます.昏睡状態の長さは医師の医療技術と医療施設の質によって異なります.</ImplantXenogermWarningDesc>
   <!-- EN: Additionally, implanting a xenogerm will overwrite existing xenogenes. {PAWN_nameDef}'s current xenotype is '{XENOTYPE}'. {PAWN_pronoun} has the following xenogenes:\n{XENOGENES} -->
@@ -382,7 +382,7 @@
   <!-- EN: In sunlight -->
   <InSunlight>日光の下</InSunlight>
   <!-- EN: {0_labelShort} is exposed to the sky. -->
-  <ThingIsSkyExposed>{0_labelShort}は 空の下にさらされています.</ThingIsSkyExposed>
+  <ThingIsSkyExposed>{0_labelShort}が 空の下にさらされています.</ThingIsSkyExposed>
   <!-- EN: Insert person -->
   <InsertPerson>人を乗せる</InsertPerson>
   <!-- EN: Insert a person into the gene extractor. Their genetic material will be extracted and used to create a genepack containing a random selection of their genes.\n\nGene extraction is painful and will leave the subject weak and drowsy for a number of days. The process is lethal for those whose genes are currently regrowing. -->
@@ -432,7 +432,7 @@
   <!-- EN: capacity -->
   <Capacity>許容量</Capacity>
   <!-- EN: Non-{GENE} romance chance -->
-  <MissingGeneRomanceChance>{GENE}以外の恋愛確率</MissingGeneRomanceChance>
+  <MissingGeneRomanceChance>{GENE}を持たない人物との\n 恋愛確率</MissingGeneRomanceChance>
   <!-- EN: Not in gene bank -->
   <NotInGeneBank>遺伝子バンクにない</NotInGeneBank>
 
@@ -458,7 +458,7 @@
   <!-- EN: Fall per day -->
   <CurrentMechEnergyFallPerDay>1日あたりの減少率</CurrentMechEnergyFallPerDay>
   <!-- EN: Cannot assign to control group {0} -->
-  <CannotAssignMechToControlGroup>管理グループ{0}に割り当てることができません</CannotAssignMechToControlGroup>
+  <CannotAssignMechToControlGroup>管理グループ{0}に割り当てられない</CannotAssignMechToControlGroup>
   <!-- EN: Already assigned -->
   <AssignMechAlreadyAssigned>割り当て済み</AssignMechAlreadyAssigned>
 
@@ -515,7 +515,7 @@
 
   <!-- Bossgroup -->
   <!-- EN: available in {0}. -->
-  <BossgroupAvailableIn>{0}で利用できます.</BossgroupAvailableIn>
+  <BossgroupAvailableIn>{0}後まで使用できません.</BossgroupAvailableIn>
   <!-- EN: requires mechanitor -->
   <RequiresMechanitor>メカニターが必要</RequiresMechanitor>
 
@@ -666,9 +666,9 @@
   <!-- EN: Pollution -->
   <TilePollution>汚染</TilePollution>
   <!-- EN: Nearby pollution -->
-  <TilePollutionNearby>近くの汚染</TilePollutionNearby>
+  <TilePollutionNearby>周囲の汚染</TilePollutionNearby>
   <!-- EN: The sum of pollution levels of all tiles within a {0} tile radius. As the distance from this tile increases, the pollution contribution decreases:\n\n{1}\n\nThe higher the nearby pollution the greater the chance of acidic smog occurring. -->
-  <NearbyPollutionTip>半径{0}タイル内のすべてのタイルの汚染レベルの合計です.このタイルからの距離が遠くなるほど,汚染の影響が減少します:\n\n{1}\n\n近くの汚染が高いほど,酸性スモッグの発生する可能性が高くなります.</NearbyPollutionTip>
+  <NearbyPollutionTip>半径{0}タイル内のすべてのタイルの汚染レベルの合計です.このタイルからの距離が遠くなるほど,汚染の影響が減少します:\n\n{1}\n\n周囲の汚染が高いほど,酸性スモッグの発生する可能性が高くなります.</NearbyPollutionTip>
   <!-- EN: This tile will have acidic smog every {0} days on average. -->
   <NoxiousHazeInterval>このタイルは平均して{0}日ごとに酸性スモッグが発生します.</NoxiousHazeInterval>
   <!-- EN: This tile will never have acidic smog. -->
@@ -751,13 +751,9 @@
   <EmbryoEjectedFromGrowthVatBiostarvation>{0}は生物学的栄養失調により,人工生育槽で死亡しました.</EmbryoEjectedFromGrowthVatBiostarvation>
 
   <!-- EN: {0} has successfully become pregnant from embryo implantation! -->
-  <IvfPregnancyLetterText>{0}は胚の移植からの妊娠に成功しました!</IvfPregnancyLetterText>
+  <IvfPregnancyLetterText>{0}は 胚の移植による妊娠に成功しました!</IvfPregnancyLetterText>
   <!-- EN: The baby will have the genetic makeup of {0} and {1}. -->
-  <IvfPregnancyLetterParents>赤ん坊は{0}と{1}の遺伝子構造を持っています.</IvfPregnancyLetterParents>
-
-  <!-- Projectile interceptor -->
-  <!-- EN: A low-angle projected shield that will attempt to stop incoming projectiles or shrapnel. It shuts down instantly if hit by an EMP. -->
-  <ProjectileInterceptorTip>発射物や榴散弾の侵入を阻止する低角度の投影シールドです.EMPに当たると即座に停止します.</ProjectileInterceptorTip>
+  <IvfPregnancyLetterParents>赤ん坊は {0}と {1}の 遺伝子構造を持っています.</IvfPregnancyLetterParents>
 
   <!-- Remote mech shield -->
   <!-- EN: A remote shield projected by a mechanitor. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP -->
@@ -773,8 +769,5 @@
   <GeneticChemicalDependency_Label>先天的な{CHEMICAL_label}依存</GeneticChemicalDependency_Label>
   <!-- EN: I need {CHEMICAL_label} because of my genetic deficiency. It's been so long since I've had any. -->
   <GeneticChemicalDependency_Desc>先天的欠乏症が原因で{CHEMICAL_label}が必要だ.これを最後に手にしたのはもうずいぶん前だ.</GeneticChemicalDependency_Desc>
-
-  <!-- UNUSED -->
-  <LearningDesireTooltip_CurrentDesire>{0_nameDef}の現在の学習意欲:</LearningDesireTooltip_CurrentDesire>
 
 </LanguageData>

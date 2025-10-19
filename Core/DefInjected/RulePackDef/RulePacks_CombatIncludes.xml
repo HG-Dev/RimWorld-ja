@@ -71,9 +71,9 @@
     <li>strikeAdv->horribly</li>
     <li>strikeAdv->savagely</li>
     <li>strikeAdv->viciously</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving a disgusting wound</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->leaving a disgusting wound</li>
     <li>flavortext_consequence->leaving a horrific wound</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->making [RECIPIENT_objective] [wince] [painevent]</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->making [RECIPIENT_objective] [wince] [painevent]</li>
     <li>flavortext_consequence(p=0.2)->throwing [RECIPIENT_objective] off balance</li>
   -->
   <Combat_MeleeDamageIncludes.rulePack.rulesStrings>
@@ -84,9 +84,9 @@
     <li>strikeAdv->恐ろしく</li>
     <li>strikeAdv->残酷に</li>
     <li>strikeAdv->意地悪に</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->嫌な傷を残した</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->嫌な傷を残した</li>
     <li>flavortext_consequence->恐ろしい傷を残した</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->[painevent][RECIPIENT_objective][wince]</li>
+    <li>flavortext_consequence(RECIPIENT_flesh!=Mechanoid)->[painevent][RECIPIENT_objective][wince]</li>
     <li>flavortext_consequence(p=0.2)->体勢の整っていない[RECIPIENT_objective]投げ飛ばした</li>
   </Combat_MeleeDamageIncludes.rulePack.rulesStrings>
   
@@ -111,20 +111,20 @@
     <li>destroyed(p=0.5)->demolished</li>
     <li>destroyed(p=0.5)->ruined</li>
     <li>destroyed(p=0.5)->wrecked</li>
-    <li>wince(recipient_flesh==Normal)->wince</li>
-    <li>wince(recipient_flesh==Normal)->grimace</li>
-    <li>wince(recipient_flesh==Normal)->cringe</li>
-    <li>wince(recipient_flesh==Normal)->groan</li>
-    <li>wince(recipient_flesh!=Mechanoid)->scream</li>
-    <li>wince(recipient_flesh!=Mechanoid)->shout</li>
+    <li>wince(RECIPIENT_flesh==Normal)->wince</li>
+    <li>wince(RECIPIENT_flesh==Normal)->grimace</li>
+    <li>wince(RECIPIENT_flesh==Normal)->cringe</li>
+    <li>wince(RECIPIENT_flesh==Normal)->groan</li>
+    <li>wince(RECIPIENT_flesh!=Mechanoid)->scream</li>
+    <li>wince(RECIPIENT_flesh!=Mechanoid)->shout</li>
     <li>wince->recoil</li>
     <li>wince->stumble</li>
     <li>painstate->in</li>
     <li>painstate->with</li>
     <li>painstate->from the</li>
-    <li>painevent(recipient_flesh!=Mechanoid)->[painstate] pain</li>
-    <li>painevent(recipient_flesh!=Mechanoid)->[painstate] agony</li>
-    <li>painevent(recipient_flesh==Normal)->with misery</li>
+    <li>painevent(RECIPIENT_flesh!=Mechanoid)->[painstate] pain</li>
+    <li>painevent(RECIPIENT_flesh!=Mechanoid)->[painstate] agony</li>
+    <li>painevent(RECIPIENT_flesh==Normal)->with misery</li>
     <li>painevent->from the injury</li>
     <li>painevent->from the wound</li>
     <li>to->to</li>
@@ -152,20 +152,20 @@
     <li>destroyed(p=0.5)->粉砕した</li>
     <li>destroyed(p=0.5)->崩壊した</li>
     <li>destroyed(p=0.5)->破壊した</li>
-    <li>wince(recipient_flesh==Normal)->たじろがせた</li>
-    <li>wince(recipient_flesh==Normal)->しかめさせた</li>
-    <li>wince(recipient_flesh==Normal)->すくませた</li>
-    <li>wince(recipient_flesh==Normal)->うめかせた</li>
-    <li>wince(recipient_flesh!=Mechanoid)->叫ばせた</li>
-    <li>wince(recipient_flesh!=Mechanoid)->わめかせた</li>
+    <li>wince(RECIPIENT_flesh==Normal)->たじろがせた</li>
+    <li>wince(RECIPIENT_flesh==Normal)->しかめさせた</li>
+    <li>wince(RECIPIENT_flesh==Normal)->すくませた</li>
+    <li>wince(RECIPIENT_flesh==Normal)->うめかせた</li>
+    <li>wince(RECIPIENT_flesh!=Mechanoid)->叫ばせた</li>
+    <li>wince(RECIPIENT_flesh!=Mechanoid)->わめかせた</li>
     <li>wince->ひるませた</li>
     <li>wince->よろめかせた</li>
     <li>painstate->で</li>
     <li>painstate->で</li>
     <li>painstate->によって</li>
-    <li>painevent(recipient_flesh!=Mechanoid)->痛み[painstate]</li>
-    <li>painevent(recipient_flesh!=Mechanoid)->苦痛[painstate]</li>
-    <li>painevent(recipient_flesh==Normal)->惨めさで</li>
+    <li>painevent(RECIPIENT_flesh!=Mechanoid)->痛み[painstate]</li>
+    <li>painevent(RECIPIENT_flesh!=Mechanoid)->苦痛[painstate]</li>
+    <li>painevent(RECIPIENT_flesh==Normal)->惨めさで</li>
     <li>painevent->傷によって</li>
     <li>painevent->怪我によって</li>
     <li>to->へ</li>
@@ -218,9 +218,9 @@
     <li>skillAdv(INITIATOR_skill>=14)->masterfully</li>
     <li>skillAdv(INITIATOR_skill>=16)->artistically</li>
     <li>skillAdv(INITIATOR_skill>=16)->gracefully</li>
-    <li>skillAdv(initiator_flesh==Mechanoid)->mechanically</li>
-    <li>skillAdv(initiator_flesh==Mechanoid)->robotically</li>
-    <li>skillAdv(initiator_flesh==Mechanoid)->directly</li>
+    <li>skillAdv(INITIATOR_flesh==Mechanoid)->mechanically</li>
+    <li>skillAdv(INITIATOR_flesh==Mechanoid)->robotically</li>
+    <li>skillAdv(INITIATOR_flesh==Mechanoid)->directly</li>
   -->
   <Combat_SkillIncludes.rulePack.rulesStrings>
     <li>skillDescMelee->[skillAdv][WEAPON_label]を[wielding]</li>
@@ -237,13 +237,13 @@
     <li>using->突き刺す</li>
     <li>using->活用する</li>
     <li>using->動かす</li>
-    <li>skillAdv(INITIATOR_skill>=3)->役に立たずな</li>
-    <li>skillAdv(INITIATOR_skill>=3)->下手な</li>
-    <li>skillAdv(INITIATOR_skill>=3)->激しく</li>
+    <li>skillAdv(INITIATOR_skill>=3)->無意味に</li>
+    <li>skillAdv(INITIATOR_skill>=3)->めちゃくちゃに</li>
+    <li>skillAdv(INITIATOR_skill>=3)->乱暴に</li>
     <li>skillAdv(INITIATOR_skill>=3)->手当たりしだいに</li>
-    <li>skillAdv(INITIATOR_skill>=3)->壊れやすい</li>
-    <li>skillAdv(INITIATOR_skill>=4)->ぎこちない手つきで</li>
-    <li>skillAdv(INITIATOR_skill>=4)->不器用な</li>
+    <li>skillAdv(INITIATOR_skill>=3)->振り回すように</li>
+    <li>skillAdv(INITIATOR_skill>=4)->ぎこちない動きで</li>
+    <li>skillAdv(INITIATOR_skill>=4)->不器用な手つきで</li>
     <li>skillAdv(INITIATOR_skill>=5)->おそるおそる</li>
     <li>skillAdv(INITIATOR_skill>=5)->ためらいながら</li>
     <li>skillAdv(INITIATOR_skill>=5)->愚かにも</li>
@@ -251,15 +251,15 @@
     <li>skillAdv(INITIATOR_skill>=6)->仕方なく</li>
     <li>skillAdv(INITIATOR_skill>=6)->ゆっくりと</li>
     <li>skillAdv(INITIATOR_skill>=6)->試しに</li>
-    <li>skillAdv(INITIATOR_skill>=6)->不器用に</li>
+    <li>skillAdv(INITIATOR_skill>=6)->未熟な動きで</li>
     <li>skillAdv(INITIATOR_skill>=6)->素人のように</li>
     <li>skillAdv(INITIATOR_skill>=6)->こわごわ</li>
     <li>skillAdv(INITIATOR_skill>=8)->熱狂的に</li>
-    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill>=10)->熟練した手つきで</li>
+    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill>=10)->熟練した動きで</li>
     <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill>=10)->的確に</li>
     <li>skillAdv(INITIATOR_skill>=8)->プロのように</li>
     <li>skillAdv(INITIATOR_skill>=8)->器用に</li>
-    <li>skillAdv(INITIATOR_skill>=8)->うまく</li>
+    <li>skillAdv(INITIATOR_skill>=8)->上手に</li>
     <li>skillAdv(INITIATOR_skill>=8)->巧妙に</li>
     <li>skillAdv(INITIATOR_skill>=8)->機敏に</li>
     <li>skillAdv(INITIATOR_skill>=8)->巧みに</li>
@@ -270,9 +270,9 @@
     <li>skillAdv(INITIATOR_skill>=14)->名人級に</li>
     <li>skillAdv(INITIATOR_skill>=16)->芸術的に</li>
     <li>skillAdv(INITIATOR_skill>=16)->優雅に</li>
-    <li>skillAdv(initiator_flesh==Mechanoid)->メカノイドのように</li>
-    <li>skillAdv(initiator_flesh==Mechanoid)->機械的に</li>
-    <li>skillAdv(initiator_flesh==Mechanoid)->直接</li>
+    <li>skillAdv(INITIATOR_flesh==Mechanoid)->メカノイドのように</li>
+    <li>skillAdv(INITIATOR_flesh==Mechanoid)->機械的に</li>
+    <li>skillAdv(INITIATOR_flesh==Mechanoid)->直接</li>
   </Combat_SkillIncludes.rulePack.rulesStrings>
   
   <!-- EN:

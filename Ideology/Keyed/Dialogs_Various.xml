@@ -171,7 +171,7 @@
   <!-- EN: Last human meat -->
   <LastHumanMeat>最後の人肉</LastHumanMeat>
   <!-- EN: Because of {PAWN_possessive} belief in {IDEO_name}, {PAWN_nameDef} will become unhappy if {PAWN_pronoun} goes more than {DURATION} days without eating human meat. -->
-  <LastHumanMeatDesc>{PAWN_nameDef}は{IDEO_name}を信じているため,{DURATION}日以上ヒトの肉を食べずに過ごすと不幸になります.</LastHumanMeatDesc>
+  <LastHumanMeatDesc>{PAWN_nameDef}は{IDEO_name}を信じているため,{DURATION}日間ヒトの肉を食べずに過ごすと,次の日以降から嫌な気持ちになります.</LastHumanMeatDesc>
 
   <!-- EN: Executing {PAWN_labelShort} will negatively affect relations with {FACTION_name}. -->
   <ExectueNeutralFactionSlave>{PAWN_labelShort}を処刑すると,{FACTION_name}との関係に悪影響を及ぼします.</ExectueNeutralFactionSlave>
@@ -314,7 +314,7 @@
   <SoldColonyDescription>あなたはコロニーを売却し,購入者はあなたが次に着陸する場所を選べるよう準備を整えました.</SoldColonyDescription>
 
   <!-- EN: Hacking this {0} will alert enemies and cause them to attack. Do you really want to hack {0}? -->
-  <ConfirmHackEnenyTerminal>この{0}をハッキングすると敵に警報が発せられ,攻撃が発生します.本当に{0}をハッキングしますか?</ConfirmHackEnenyTerminal>
+  <ConfirmHackEnemyTerminal>この{0}をハッキングすると敵に警報が発せられ,攻撃が発生します.本当に{0}をハッキングしますか?</ConfirmHackEnemyTerminal>
 
   <!-- EN: Relics -->
   <RelicsSection>レリック</RelicsSection>
@@ -333,7 +333,4 @@
   <StylesInUse>使用中のスタイル</StylesInUse>
   <!-- EN: Add a style. -->
   <StyleCategoryAddDesc>スタイルを追加します.</StyleCategoryAddDesc>
-  <!-- UNUSED -->
-  <MedGroupEnslavedColonist>奴隷の入植者</MedGroupEnslavedColonist>
-
 </LanguageData>

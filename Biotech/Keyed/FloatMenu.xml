@@ -16,9 +16,9 @@
   <!-- EN: Never controllable -->
   <CannotControlMechNeverControllable>制御不能</CannotControlMechNeverControllable>
   <!-- EN: Cannot disconnect from {0} -->
-  <CannotDisconnectMech>{0}から切断できない</CannotDisconnectMech>
+  <CannotDisconnectMech>{0}との接続を切れない</CannotDisconnectMech>
   <!-- EN: Disconnect from {0} -->
-  <DisconnectMech>{0}から切断する</DisconnectMech>
+  <DisconnectMech>{0}との接続を切る</DisconnectMech>
   <!-- EN: Permanently disassemble {0} -->
   <DisassembleMech>{0}を完全に分解する</DisassembleMech>
   <!-- EN: Cannot permanently disassemble {0} -->
@@ -26,7 +26,7 @@
   <!-- EN: Must be overseer -->
   <MustBeOverseer>管理者である必要がある</MustBeOverseer>
   <!-- EN: Extract -->
-  <Extract>抽出する</Extract>
+  <Extract>抽出する:</Extract>
   <!-- EN: Out of command range -->
   <OutOfCommandRange>コマンド範囲外</OutOfCommandRange>
   <!-- EN: Cannot go here -->
@@ -63,7 +63,7 @@
   <!-- EN: No implantable people -->
   <NoImplantablePawns>移植可能な人間がいない</NoImplantablePawns>
   <!-- EN: Cannot enter {0_labelShort} -->
-  <CannotEnterBuilding>{0_labelShort}を入力できない</CannotEnterBuilding>
+  <CannotEnterBuilding>{0_labelShort}に入れられない</CannotEnterBuilding>
   <!-- EN: {0_labelShort} is assigned to another person. -->
   <AssignedToOtherPawn>{0_labelShort}は別の人に割り当てられています.</AssignedToOtherPawn>
 
@@ -94,7 +94,9 @@
   <!-- EN: Breastfeed {BABY_labelShort} -->
   <BabyCareBreastfeed>{BABY_labelShort}に授乳する</BabyCareBreastfeed>
   <!-- EN: Cannot breastfeed {BABY_labelShort} -->
-  <BabyCareBreastfeedUnable>{BABY_labelShort}は授乳できない</BabyCareBreastfeedUnable>
+  <BabyCareBreastfeedUnable>{BABY_labelShort}に授乳できない</BabyCareBreastfeedUnable>
+  <!-- EN: Already breastfeeding {BABY_labelShort} -->
+  <AlreadyBreastfeeding>{BABY_labelShort}は既に授乳されている</AlreadyBreastfeeding>
   <!-- EN: No baby-edible food -->
   <NoBabyFood>離乳食禁止</NoBabyFood>
 
@@ -164,9 +166,9 @@
   <CarryToSafePlace>安全な場所に運ぶ</CarryToSafePlace>
   <!-- EN: Cannot take to safe location -->
   <CannotCarryToSafePlace>安全な場所に運べない</CannotCarryToSafePlace>
-
-  <!-- UNUSED -->
-  <CannotStudy>研究できない</CannotStudy>
-  <AlreadyStudied>すでに研究した</AlreadyStudied>
+  <!-- EN: No safer location than current location -->
+  <NoBetterSafePlace>この場所より安全な場所がない</NoBetterSafePlace>
+  <!-- EN: Already taking to safe location -->
+  <AlreadyCarryingToSafePlace>既に安全な場所に運んでいる</AlreadyCarryingToSafePlace>
 
 </LanguageData>

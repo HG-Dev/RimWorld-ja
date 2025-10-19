@@ -7,8 +7,10 @@
   <OnlyMembersCanBuild>{0}のみ建築できる</OnlyMembersCanBuild>
   <!-- EN: {0} is already in progress. -->
   <CantStartRitualAlreadyInProgress>{0}はすでに進行中です.</CantStartRitualAlreadyInProgress>
+  <!-- EN: {RITUAL} cannot be performed {GERUND} {LAYER}. -->
+  <CantStartRitualLayer>{LAYER}{GERUND}では{RITUAL}を行えません.</CantStartRitualLayer>
   <!-- EN: One or more participants can't join due to extreme temperature. -->
-  <CantJoinRitualInExtremeWeather>極端な気温のため,1人以上の参加者が参加できません.</CantJoinRitualInExtremeWeather>
+  <CantJoinRitualInExtremeWeather>極端な気温のため,何人かの参加者が参加できません.</CantJoinRitualInExtremeWeather>
   <!-- EN: {0} is already participating in a ritual. -->
   <CantStartRitualTargetIsAlreadyInRitual>{0}はすでに儀式に参加しています.</CantStartRitualTargetIsAlreadyInRitual>
   <!-- EN: You must assign the role of {0} in order to start this ritual. -->
@@ -20,7 +22,7 @@
   <!-- EN: {PAWN_nameDef} must be a {IDEO_memberName}. -->
   <CantStartRitualSelectedPawnMustBeMember>{PAWN_nameDef}は{IDEO_memberName}である必要があります.</CantStartRitualSelectedPawnMustBeMember>
   <!-- EN: {PAWN_nameDef} is psychically deaf. -->
-  <CantStartRitualSelectedPawnPsychicallyDeaf>{PAWN_nameDef}は精神的な理由により耳が聞こえません.</CantStartRitualSelectedPawnPsychicallyDeaf>
+  <CantStartRitualSelectedPawnPsychicallyDeaf>{PAWN_nameDef}は精神的無反応です.</CantStartRitualSelectedPawnPsychicallyDeaf>
   <!-- EN: Not enough space for spectators. There must be a clear circle of radius {MINRADIUS}. At least {1} standable spots in that radius required. -->
   <CantStartNotEnoughSpaceDuelSpectators>観衆のための十分なスペースがありません.半径{MINRADIUS}の明確な円形のスペースが必要です.その半径内に少なくとも{1}個のスタンディング スポットが必要です.</CantStartNotEnoughSpaceDuelSpectators>
   <!-- EN: Not enough space for duelists. There must be a clear circle of radius {MINRADIUS}. At least {1} standable spots in that radius required. -->
@@ -36,8 +38,6 @@
   <!-- EN: not allowed for faction -->
   <NotAllowedForFaction>この派閥は選択できません</NotAllowedForFaction>
 
-  <!-- EN: Remove -->
-  <Remove>削除</Remove>
   <!-- EN: Remove precept -->
   <RemovePrecept>戒律を削除</RemovePrecept>
   <!-- EN: Regenerate -->
@@ -101,17 +101,6 @@
   <IdeoAlreadyHasAltar>祭壇/イデオグラムは一つしか選べない</IdeoAlreadyHasAltar>
   <!-- EN: recolor apparel -->
   <RecolorApparel>衣服に着色</RecolorApparel>
-
-  <!-- EN: Hack {0} -->
-  <Hack>{0}ハックする</Hack>
-  <!-- EN: Cannot hack {0} -->
-  <CannotHack>{0}はハックできない</CannotHack>
-  <!-- EN: Already hacked -->
-  <AlreadyHacked>すでにハック済みです</AlreadyHacked>
-  <!-- EN: Incapable of hacking -->
-  <IncapableOfHacking>ハッキング不可能です</IncapableOfHacking>
-  <!-- EN: to drop supplies -->
-  <ToDropSupplies>物資を落とすために</ToDropSupplies>
 
   <!-- EN: Install {0} -->
   <InstallRelic>{0}をインストールする</InstallRelic>

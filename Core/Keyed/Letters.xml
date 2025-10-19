@@ -21,7 +21,9 @@
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
   <LetterRelationsChange_Hostile>{0}との関係が断絶しました.彼らは今や敵です.</LetterRelationsChange_Hostile>  
   <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
-  <LetterRelationsChange_HostileGoodwillDescription>彼らは,あなたのコロニーやキャラバン隊を定期的に襲撃するでしょう,さらにトレードを拒否します.あなたに関係改善の意思があるなら,キャラバン隊や輸送ポッドを使って,彼らに贈り物を申し出ることはできます.\n\nこれは友好値({0})が{1}以下のときに起きます.中立の関係に戻す目的なら,友好値を再び{2}に到達させなければなりません.</LetterRelationsChange_HostileGoodwillDescription>  
+  <LetterRelationsChange_HostileGoodwillDescription>彼らは,あなたのコロニーやキャラバン隊を定期的に襲撃し,さらにトレードを拒否します.あなたに関係改善の意思があるなら,キャラバン隊や輸送ポッドを使って,彼らに贈り物を申し出ることができます.\n\nこれは友好値({0})が{1}を下回ったため発生しました.中立の関係に戻りたい場合,友好値を再び{2}に到達させなければなりません.</LetterRelationsChange_HostileGoodwillDescription>
+  <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
+  <LetterRelationsChange_HostileGoodwillDescription_NoGifting>彼らは,あなたのコロニーやキャラバン隊を定期的に襲撃し,さらにトレードを拒否します.\n\nこれは友好値({0})が{1}を下回ったため発生しました.中立の関係に戻りたい場合,友好値を再び{2}に到達させなければなりません.</LetterRelationsChange_HostileGoodwillDescription_NoGifting>
 
   <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you. -->
   <LetterRelationsChange_NeutralFromHostile>{0}との関係が改善しました.もう彼らは,あなたを攻撃しようともせず,中立とみなしています.</LetterRelationsChange_NeutralFromHostile>
@@ -86,9 +88,9 @@
   <!-- EN: Disease -->
   <LetterLabelNewDisease>発症</LetterLabelNewDisease>
   <!-- EN: {PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewDisease>{PAWN}は {1}の病に倒れました.\n\n医療用ベッドと医者を確保してください.{PAWN_definite}が適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</NewDisease>
+  <NewDisease>{PAWN}は {1}の病にかかりました.\n\n医療用ベッドと医者を確保してください.{PAWN_definite}が適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</NewDisease>
   <!-- EN: {PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewPartDisease>{PAWN}は {3}の病に倒れました.感染元は{PAWN_possessive}{1}です.医療用ベッドと医者を確保してください.{PAWN_definite}が適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</NewPartDisease>
+  <NewPartDisease>{PAWN}は {3}の病にかかりました. 感染元は{PAWN_possessive}{1}です.\n\n医療用ベッドと医者を確保してください.{PAWN_definite}が適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</NewPartDisease>
   <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
   <NewDiseaseAnimal>{PAWN_labelShort}は病気を発症しました: {1}</NewDiseaseAnimal>
   <!-- EN: {PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1} -->
@@ -160,9 +162,9 @@
   <LastFactionRelationsEvent>きっかけとなった出来事</LastFactionRelationsEvent>
 
   <!-- EN: View related quest -->
-  <ViewRelatedQuest>関連するクエストを参照</ViewRelatedQuest>
+  <ViewRelatedQuest>関連するクエストを確認</ViewRelatedQuest>
   <!-- EN: View quest -->
-  <ViewQuest>クエストを参照</ViewQuest>
+  <ViewQuest>クエストを確認</ViewQuest>
   <!-- EN: The last events in {PAWN_definite}'s life -->
   <LastEventsInLife>{PAWN_definite}の人生で最後に起きた出来事</LastEventsInLife>
 
@@ -179,7 +181,7 @@
   <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group: -->
   <LetterRelatedPawnsNeutralGroup>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,到着したグループにいます：</LetterRelatedPawnsNeutralGroup>
   <!-- EN: The orbital trader is selling people who have relationships with your {0} or prisoners: -->
-  <LetterRelatedPawnsTradeShip>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,軌道トレーダーによって売られています:</LetterRelatedPawnsTradeShip>
+  <LetterRelatedPawnsTradeShip>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,惑星軌道上の商船で売られています:</LetterRelatedPawnsTradeShip>
   <!-- EN: The settlement is selling people who have relationships with your {0} or prisoners: -->
   <LetterRelatedPawnsTradingWithSettlement>あなたのコロニーの{0}か,囚人と,繋がりの有る者が,拠点で売られています:</LetterRelatedPawnsTradingWithSettlement>
   <!-- EN: The caravan is selling people who have relationships with your {0} or prisoners: -->
@@ -295,6 +297,8 @@
   <LetterLabelFactionBaseDefeated>拠点破壊</LetterLabelFactionBaseDefeated>
   <!-- EN: The enemy settlement {0} has been destroyed.\n\nIn {1}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
   <LetterFactionBaseDefeated>敵の入植地"{0}"を破壊しました.\n\n{1}で,奴らはキャラバン隊を攻撃します.キャラバン隊の再編成と定住をしない限り,奴らはキャラバン隊を攻撃するために軍勢を送り始めます.</LetterFactionBaseDefeated>
+  <!-- EN: The enemy settlement {0} has been destroyed. -->
+  <LetterFactionBaseDefeatedNoRaids>敵の入植地"{0}"を破壊しました.</LetterFactionBaseDefeatedNoRaids>
   <!-- EN: Since this was their last settlement, {0} has been defeated. -->
   <LetterFactionBaseDefeated_FactionDestroyed>この場所が奴らの最後の入植地だったため,{0}は敗北しました.</LetterFactionBaseDefeated_FactionDestroyed>
 
@@ -388,9 +392,9 @@
   <!-- EN: Reactor ready -->
   <LetterLabelHibernateComplete>反応炉 準備完了</LetterLabelHibernateComplete>
   <!-- EN: (*Name)Charlon Whitestone(/Name) has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff. -->
-  <LetterHibernateComplete>(*Name)Charlon Whitestone(/Name)は,反応炉の再起動シーケンスを完了させました. いま,反応炉は打ち上げに必要なパワーの準備ができています.</LetterHibernateComplete>
+  <LetterHibernateComplete>(*Name)Charlon Whitestone(/Name)は, 反応炉の再起動シーケンスを完了させました. 反応炉はいま,打ち上げに必要なパワーを出力できるようになりました.</LetterHibernateComplete>
   <!-- EN: The reactor's power up sequence is complete. It is now ready to power a liftoff. -->
-  <LetterHibernateCompleteStandalone>反応炉の再起動シーケンスは完了しました.打ち上げ準備は完了です.</LetterHibernateCompleteStandalone>
+  <LetterHibernateCompleteStandalone>反応炉の再起動シーケンスが完了し,打ち上げ準備が整いました.</LetterHibernateCompleteStandalone>
 
   <!-- Visitors gave gift -->
   <!-- EN: Gift from {0} -->
@@ -413,14 +417,16 @@
   <!-- Rescue quest -->
   <!-- EN: Rescuee joins -->
   <LetterLabelRescueQuestFinished>レスキュー＆参加</LetterLabelRescueQuestFinished>
-  <!-- EN: You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group.\n\nYou can take {PAWN_objective} with you by reforming the caravan in the World screen by selecting this area and choosing the "Reform caravan" option. -->
-  <LetterRescueQuestFinished>{PAWN_nameDef}を助けて,{PAWN_pronoun}はグループに加わりました.\n\nあなたはワールドマップから,"キャラバン隊の再編成"を選ぶことで,キャラバン隊の再編成を行い,{PAWN_objective}連れて行くことができます.</LetterRescueQuestFinished>
+  <!-- EN: You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group. -->
+  <LetterRescueQuestFinished>{PAWN_nameDef}はレスキューされ,グループに加わりました.</LetterRescueQuestFinished>
+  <!-- EN: \n\nYou can now take {PAWN_objective} with you. To do so, open the World screen, select this site and choose the "Reform caravan" command. -->
+  <LetterRescueQuestFinishedCaravanExtra>{PAWN_objective}連れて行くことができます.ワールドマップを開いてこの場所を選択し,"キャラバン隊の再編成"を選択しましょう.</LetterRescueQuestFinishedCaravanExtra>
 
   <!-- Predator hunting colonist -->
   <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->
-  <LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort}は{PREY_definite}を狩っている</LetterLabelPredatorHuntingColonist>
+  <LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort}が{PREY_definite}を狩っている</LetterLabelPredatorHuntingColonist>
   <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
-  <LetterPredatorHuntingColonist>{PREDATOR}はエサとして{PREY_definite}を狩っている!</LetterPredatorHuntingColonist>
+  <LetterPredatorHuntingColonist>{PREDATOR}が{PREY_definite}をエサとして狩っています!</LetterPredatorHuntingColonist>
 
   <!-- Disease -->
   <!-- EN: {0} blocked {1} on -->
@@ -428,19 +434,31 @@
   <!-- EN: Disease: {0} -->
   <LetterLabelTraitDisease>疫病 ({0})</LetterLabelTraitDisease>
   <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
-  <LetterTraitDisease>{PAWN_label}は {1}の病に倒れました.\n\n医療用ベッドと医者を確保してください. {PAWN_pronoun}が適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</LetterTraitDisease>
+  <LetterTraitDisease>{PAWN_label}は {1}の病にかかりました.\n\n医療用ベッドと医者を確保してください. {PAWN_pronoun}が適切な治療を受けられているか確認し,できる限り医療用ベッドで過ごすようにしてください.</LetterTraitDisease>
 
   <!-- Quests -->
-  <!-- EN: A new quest has become available. It is called '{0}'. -->
-  <LetterQuestBecameAvailable>新しいクエスト'{0}'が受諾可能になりました.</LetterQuestBecameAvailable>
+  <!-- EN: Quest available: {0} -->
+  <LetterLabelQuestAvailableTitle>クエスト発見: {0}</LetterLabelQuestAvailableTitle>
+  <!-- EN: Quest active: {0} -->
+  <LetterLabelQuestAutomaticallyAcceptedTitle>クエスト発生: {0}</LetterLabelQuestAutomaticallyAcceptedTitle>
+  <!-- EN: {DISCOVEREDFROM} a new quest. -->
+  <LetterNewQuest>{DISCOVEREDFROM}新しいクエストを発見しました.</LetterNewQuest>
+  <!-- EN: A new quest is available. -->
+  <LetterNewQuestFromUnknown>新しいクエストが見つかりました.</LetterNewQuestFromUnknown>
+  <!-- EN: The quest is called '{0}'. -->
+  <LetterQuestIsNamed>クエストの名前は'{0}'です.</LetterQuestIsNamed>
+  <!-- EN: It will expire in {0}. -->
+  <LetterQuestActiveNowTime>有効期限は{0}です.</LetterQuestActiveNowTime>
   <!-- EN: If you don't accept the quest within {0}, it will expire. -->
   <LetterQuestRequiresAcceptance>このクエストは, {0}以内に受諾しないと, 期限切れになります.</LetterQuestRequiresAcceptance>
-  <!-- EN: A new quest has become active. It is called '{0}'. -->
-  <LetterQuestBecameActive>新しいクエスト'{0}'が発生しました.</LetterQuestBecameActive>
-  <!-- EN: Quest active: {0} -->
-  <LetterQuestAutomaticallyAcceptedTitle>クエスト発生: {0}</LetterQuestAutomaticallyAcceptedTitle>
-  <!-- EN: It will expire in {0}. -->
-  <LetterQuestActiveNowTime>有効期限 {0}.</LetterQuestActiveNowTime>
+  <!-- EN: While reading {BOOK_labelNoParenthesis}, {READER_nameDef} discovered -->
+  <QuestDiscoveredFromBook>{READER_nameDef}は{BOOK_labelNoParenthesis}を読む中で情報を見つけ,</QuestDiscoveredFromBook>
+  <!-- EN: While talking with the trader {TRADER_nameDef}, {NEGOTIATOR_nameDef} learned of -->
+  <QuestDiscoveredFromTrader>{NEGOTIATOR_nameDef}はトレーダーである{TRADER_nameDef}と話す中でとある情報を知り,</QuestDiscoveredFromTrader>
+  <!-- EN: To show {RECEIVER_possessive} gratitude for your charity, the beggar {RECEIVER_nameDef} shared a secret with {GIVER_nameDef}.\n\nYou have learned of -->
+  <QuestDiscoveredFromBeggar>コロニーの善意に感謝を示すため,難民である{RECEIVER_nameDef}は{GIVER_nameDef}に秘密の情報を伝えました.\n\nこの情報を元に,</QuestDiscoveredFromBeggar>
+  <!-- EN: You have discovered -->
+  <QuestDiscoveredFromDebug>あなたは,</QuestDiscoveredFromDebug>
 
   <!-- Quest drop pods arrived -->
   <!-- EN: Pods arrived -->
@@ -543,7 +561,7 @@
   <!-- EN: Caravan detected -->
   <LetterLabelSiteCountdownStarted>キャラバンが発見された</LetterLabelSiteCountdownStarted>
   <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible. -->
-  <LetterTextSiteCountdownStarted>キャラバンが発見されました. {0}後に, 強化した{1}が{2}からエリアに到着し始めます.\n\nキャラバンを再編成し,{1}を避けるために移動してください.彼らの到着までをカウントダウンするタイマーが表示されます.</LetterTextSiteCountdownStarted>
+  <LetterTextSiteCountdownStarted>キャラバンが発見されました. {0}後に, {2}の{1}が大勢でこのエリアに到着します.\n\n{1}を避けるために,キャラバンを再編成して移動してください.彼らの到着までをカウントダウンするタイマーが表示されます.</LetterTextSiteCountdownStarted>
 
   <!-- EN: Unwavering prisoner -->
   <LetterLabelUnrecruitablePawnCaptured>動じない囚人</LetterLabelUnrecruitablePawnCaptured>

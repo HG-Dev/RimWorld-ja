@@ -266,7 +266,7 @@
     <li>desc_sentence->その下では,[PAWN_nameDef]が[AdjectiveFriendly]表情で[Game]を楽しんでいる.</li>
     <li>desc_sentence->[PAWN_nameDef]が畏敬の念の表情を浮かべて見守っている.</li>
     <li>desc_sentence->[Quantity_adjphrase]人の[PersonJob]達が下からそれを見上げている.</li>
-    <li>desc_sentence->[PAWN_nameDef]は[TerrainFeature]の近くで空を眺めている.</li>
+    <li>desc_sentence->[PAWN_nameDef]が[TerrainFeature]の近くで空を眺めている.</li>
     <li>desc_sentence->[Community]の見物人たちは穏やかに空を見ている.</li>
     <li>desc_sentence->その場所には[Enemy]はいないように見える.</li>
   </Eclipse.rulePack.rulesStrings>
@@ -404,10 +404,10 @@
     <li>desc_sentence->All animal life has left the area.</li>
   -->
   <Infestation.rulePack.rulesStrings>
-    <li>tale_noun->[PAWN_nameDef]の[Community]が昆虫に蔓延される</li>
+    <li>tale_noun->[PAWN_nameDef]の[Community]が虫に蔓延される</li>
     <li>image->[circumstance_phrase]鞘翅目の群れの</li>
     <li>image->[circumstance_phrase][Quantity_adjphrase]匹のメガスパイダーの</li>
-    <li>image->[circumstance_phrase],[Color]色の昆虫の圧倒的な群れの</li>
+    <li>image->[circumstance_phrase],[Color]色の虫の圧倒的な群れの</li>
     <li>image->[circumstance_phrase],黒い点々が集まった濃密な霧状のなにかの</li>
     <li>circumstance_phrase->[TerrainFeature]を越え進んでくる</li>
     <li>circumstance_phrase->[Community]を完全に取り囲む</li>

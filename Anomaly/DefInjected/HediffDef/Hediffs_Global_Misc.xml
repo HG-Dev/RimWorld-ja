@@ -28,7 +28,7 @@
   <!-- EN: blood rage -->
   <BloodRage.label>血の怒り</BloodRage.label>
   <!-- EN: This creature has been exposed to blood rain, a psychofluid that induces rage. This rage will continue to grow as long as they're exposed to the blood rain, eventually resulting in a violent mental break. The effect grows quicker in some individuals, depending on their traits, psychic sensitivity, and random individual differences. -->
-  <BloodRage.description>この生物は,怒りを誘発する精神流体である血の雨にさらされています.この怒りは,血の雨にさらされている限り増大し続け,最終的には精神の暴走を招きます.この効果は個人の特性や精神感受性の強さ,ランダムな個人差によって,より早く現れる者もいます.</BloodRage.description>
+  <BloodRage.description>この生物は,怒りを誘発する精神流体である血の雨にさらされています.この怒りは,血の雨にさらされている限り増大し続け,最終的には精神の暴走を招きます.この効果は個人の特性や精神感応性の強さ,ランダムな個人差によって,より早く現れる者もいます.</BloodRage.description>
   <!-- EN: very mild -->
   <BloodRage.stages.very_mild.label>極軽度</BloodRage.stages.very_mild.label>
   <!-- EN: mild -->
@@ -129,14 +129,14 @@
   <!-- EN: This person is upset that their cube sculptures have been destroyed. Continuing to destroy their sculptures may cause them to become violent. -->
   <CubeRage.description>この人物は,キューブの彫刻が破壊されたことに怒っています.彫刻の破壊を続けると,凶暴化するかもしれません.</CubeRage.description>
   <!-- EN: {PAWN_nameDef} can no longer control {PAWN_possessive} anger. Too many of {PAWN_possessive} precious cube sculptures have been destroyed.\n\n{PAWN_nameDef} has flown into a berserk rage! -->
-  <CubeRage.comps.HediffComp_CauseMentalState.overrideLetterDesc>{PAWN_nameDef}は,もはや自身の怒りを制御できません.あまりにも多くのキューブの彫刻が破壊されてしまいました.\n\n{PAWN_nameDef}は凶暴なまでの怒りに支配されています！</CubeRage.comps.HediffComp_CauseMentalState.overrideLetterDesc>
+  <CubeRage.comps.HediffComp_CauseMentalState.overrideLetterDesc>{PAWN_nameDef}は,もはや自身の怒りを制御できません.あまりにも多くのキューブの彫刻が破壊されてしまいました.\n\n{PAWN_nameDef}は凶暴なまでの怒りに支配されています!</CubeRage.comps.HediffComp_CauseMentalState.overrideLetterDesc>
   <!-- EN: Cube rage: {PAWN_nameDef} -->
   <CubeRage.comps.HediffComp_CauseMentalState.overrideLetterLabel>キューブの怒り：{PAWN_nameDef}</CubeRage.comps.HediffComp_CauseMentalState.overrideLetterLabel>
   
   <!-- EN: cube withdrawal -->
   <CubeWithdrawal.label>キューブ禁断症状</CubeWithdrawal.label>
   <!-- EN: This person obsessively wants to find their golden cube. Their skin itches and their mind races, thinking of ways to get closer to the cube. Their symptoms will get worse until they play with the cube. -->
-  <CubeWithdrawal.description>この人物は黄金のキューブを見つけることに執着しています.皮膚は痒くなり,心は逸り,キューブへなんとしても近づきたいと切望しています.キューブで遊べるようになるまで,症状は悪化します.</CubeWithdrawal.description>
+  <CubeWithdrawal.description>この人物は黄金のキューブを見つけることに執着しています.皮膚は痒くなり,心は逸り,キューブへなんとしても近づきたいと切望しています.キューブと遊べるようになるまで,症状は悪化します.</CubeWithdrawal.description>
   <!-- EN: inital -->
   <CubeWithdrawal.stages.inital.label>初期症状</CubeWithdrawal.stages.inital.label>
   <!-- EN: moderate -->
@@ -157,12 +157,12 @@
   <!-- EN: death refusal -->
   <DeathRefusal.label>死を拒む者</DeathRefusal.label>
   <!-- EN: This person is infused with a seed of nanoscale archotech machines that can recreate life. After they die, the archites will sustain their mind and, when they choose, rebuild their body. The flesh will rapidly reform, replacing missing organs and healing wounds. The process is not perfect and may cause scarring or other health complications. This can only be done a certain number of times. -->
-  <DeathRefusal.description>この人物は,生命の再現を可能とするナノスケールのアルコテックの機械の種子を埋め込まれました.死亡後,アルカイトが彼らの精神を維持し,彼らがそれを選べば肉体を再構築します.この肉体は休息に再生し,失った臓器を置き換え,傷を癒やします.このプロセスは完全ではなく,傷跡やその他の健康上の不具合を引き起こす可能性があります.これは一定回数しか行えません.</DeathRefusal.description>
+  <DeathRefusal.description>この人物は,生命の再現を可能とするナノスケールのアルコテックの機械の種子を埋め込まれました.死亡後,アルカイトが彼らの精神を維持し,彼らがそれを選べば肉体を再構築します.この肉体は急速に再生し,失った臓器を置き換え,傷を癒やします.このプロセスは完全ではなく,傷跡やその他の健康上の不具合を引き起こす可能性があります.これは一定回数しか行えません.</DeathRefusal.description>
   
   <!-- EN: death refusal -->
   <DeathRefusalCreepJoiner.label>死を拒む者</DeathRefusalCreepJoiner.label>
   <!-- EN: This person is infused with a seed of nanoscale archotech machines that can recreate life. After they die, the archites will sustain their mind and, when they choose, rebuild their body. The flesh will rapidly reform, replacing missing organs and healing wounds. The process is not perfect and may cause scarring or other health complications. This can only be done a certain number of times. -->
-  <DeathRefusalCreepJoiner.description>この人物は,生命の再現を可能とするナノスケールのアルコテックの機械の種子を埋め込まれました.死亡後,アルカイトが彼らの精神を維持し,彼らがそれを選べば肉体を再構築します.この肉体は休息に再生し,失った臓器を置き換え,傷を癒やします.このプロセスは完全ではなく,傷跡やその他の健康上の不具合を引き起こす可能性があります.これは一定回数しか行えません.</DeathRefusalCreepJoiner.description>
+  <DeathRefusalCreepJoiner.description>この人物は,生命の再現を可能とするナノスケールのアルコテックの機械の種子を埋め込まれました.死亡後,アルカイトが彼らの精神を維持し,彼らがそれを選べば肉体を再構築します.この肉体は急速に再生し,失った臓器を置き換え,傷を癒やします.このプロセスは完全ではなく,傷跡やその他の健康上の不具合を引き起こす可能性があります.これは一定回数しか行えません.</DeathRefusalCreepJoiner.description>
   
   <!-- EN: death refusal sickness -->
   <DeathRefusalSickness.label>死を拒む者の副作用</DeathRefusalSickness.label>
@@ -268,7 +268,7 @@
   <!-- EN: pain field -->
   <PainField.label>ペイン・フィールド</PainField.label>
   <!-- EN: A searing pain caused by the presence of a psychically active entity nearby. The effect intensifies when the entity is more active. -->
-  <PainField.description>精神的な活動存在が周囲に存在することにより,苦痛が引き起こされます.この「存在」が活動的であるほど,効果が強まります.</PainField.description>
+  <PainField.description>精神的な活動を行う「存在」がそばにいることで,苦痛が引き起こされます.この「存在」が活動的であるほど,効果が強まります.</PainField.description>
   
   <!-- EN: pleasure pulse -->
   <PleasurePulse.label>喜びのパルス</PleasurePulse.label>
@@ -278,7 +278,7 @@
   <!-- EN: psychically dead -->
   <PsychicallyDead.label>精神的な死</PsychicallyDead.label>
   <!-- EN: This person's psychic presence has been consumed and burned away, leaving them cut off from psychic phenomena. -->
-  <PsychicallyDead.description>この人物の精神存在は使い果たされ,焼き払われ,精神実体から切り離されたままになっています.</PsychicallyDead.description>
+  <PsychicallyDead.description>この人物の精神体は使い潰されました.精神体は燃え尽きてしまい,精神的な現象から切り離されます.</PsychicallyDead.description>
   
   <!-- EN: psychic trance -->
   <PsychicTrance.label>サイキックトランス</PsychicTrance.label>
@@ -288,7 +288,7 @@
   <!-- EN: psychophage -->
   <Psychophage.label>サイコファージ</Psychophage.label>
   <!-- EN: This person has devoured the psychic presence of another, making them more psychically sensitive for a period of time. -->
-  <Psychophage.description>この人物は他者の精神存在を貪り喰らい,一定期間,よりサイキック感度が強まっています.</Psychophage.description>
+  <Psychophage.description>この人物は他者の精神体を喰らい,一定期間,精神感応性がより強まります.</Psychophage.description>
   
   <!-- EN: rage speed -->
   <RageSpeed.label>レイジスピード</RageSpeed.label>
@@ -335,7 +335,7 @@
   <!-- EN: voidsight -->
   <Voidsight.label>ヴォイドサイト</Voidsight.label>
   <!-- EN: This person has ingested a drug which enhanced their perception of dark psychic phenomena. They will gain more knowledge when studying dark psychic phenomena and entities. Their psychic sensitivity is also increased. -->
-  <Voidsight.description>この人物は,闇のサイキック現象の知覚を強化する薬物を摂取しています.闇のサイキック現象や「存在」を研究する際に,より多くの知識が得られます.また,サイキック感度も上昇します.</Voidsight.description>
+  <Voidsight.description>この人物は,闇のサイキック現象の知覚を強化する薬物を摂取しています.闇のサイキック現象や「存在」を研究する際に,より多くの知識が得られます.また,精神感応性も上昇します.</Voidsight.description>
   
   <!-- EN: void touched -->
   <VoidTouched.label>ヴォイドに触れた者</VoidTouched.label>

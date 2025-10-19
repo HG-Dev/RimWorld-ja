@@ -10,7 +10,7 @@
   <!-- EN: Analyze... -->
   <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.activateLabelString>分析...</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.activateLabelString>
   <!-- EN: While analyzing the fleshmass neural tissue, {PAWN_nameDef} made a breakthrough!\n\nThis biosignature responds strongly when stimulated by a specific electric pulse. If used on the fleshmass heart itself, an electric signal could cause a tachycardiac overload and kill the heart.\n\nYou can now destroy the {BIOSIGNATURE} fleshmass heart by interacting with it directly. -->
-  <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.completedLetter>肉塊の神経線維の分析中に,{PAWN_nameDef}はひらめいた！\n\nこのバイオシグネチャーは,特定の電気パルスで刺激されると強く反応するのだと.もし肉塊の心臓そのものに使用すれば,電気シグナルが頻脈性心過負荷を引き起こして,心臓を殺すことができるでしょう.\n\n{BIOSIGNATURE}の肉塊の心臓に直接インタラクトすることで,破壊できるようになりました.</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.completedLetter>
+  <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.completedLetter>肉塊の神経線維の分析中に,{PAWN_nameDef}はひらめいた!\n\nこのバイオシグネチャーは,特定の電気パルスで刺激されると強く反応するのだと.もし肉塊の心臓そのものに使用すれば,電気シグナルが頻脈性心過負荷を引き起こして,心臓を殺すことができるでしょう.\n\n{BIOSIGNATURE}の肉塊の心臓に直接インタラクトすることで,破壊できるようになりました.</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.completedLetter>
   <!-- EN: Analysis complete -->
   <FleshmassNeuralLump.comps.CompAnalyzableBiosignature.completedLetterLabel>分析完了</FleshmassNeuralLump.comps.CompAnalyzableBiosignature.completedLetterLabel>
   <!-- EN: Choose who should analyze this -->
@@ -38,9 +38,9 @@
   <GoldenCube.comps.CompStudyUnlocks.studyNotes.0.text>{PAWN_nameDef}の黄金のキューブに関する研究によって,さらに多くのことが明らかになりました.このキューブは,それに関わる人すべてに精神的な影響を及ぼすことが可能です.キューブの影響下にある者は,キューブから引き離されると極度の疎外感を覚えます.\n\n{PAWN_nameDef}は,キューブを無力化する方法があると考えていますが,そのためにはさらなる研究を行う必要があります.</GoldenCube.comps.CompStudyUnlocks.studyNotes.0.text>
   <!-- EN: Golden cube study complete -->
   <GoldenCube.comps.CompStudyUnlocks.studyNotes.1.label>黄金のキューブ研究完了</GoldenCube.comps.CompStudyUnlocks.studyNotes.1.label>
-  <!-- EN: {PAWN_nameDef}'s investigation of the golden cube has revealed that it can be deactivated using an archotech shard. Doing so will destroy the cube, breaking its psychic hold over your colonists.\n\nHowever, the psychic whiplash from the cube’s destruction will send any cube-interested people into a berserk rage. Those in caravans will abandon your colony entirely.\n\nSelect the golden cube to deactivate it. -->
+  <!-- EN: {PAWN_nameDef}'s investigation of the golden cube has revealed that it can be deactivated using an archotech shard. Doing so will destroy the cube, breaking its psychic hold over your colonists.\n\nHowever, the psychic whiplash from the cube's destruction will send any cube-interested people into a berserk rage. Those in caravans will abandon your colony entirely.\n\nSelect the golden cube to deactivate it. -->
   <GoldenCube.comps.CompStudyUnlocks.studyNotes.1.text>{PAWN_nameDef}の研究によって,黄金のキューブはアルコテックの破片を使うことで無力化できることが明らかになりました.キューブを破壊することで,入植者に対する精神支配を解除することができます.\n\nただし,キューブの破壊による精神的被害は,キューブに関心を寄せる人々の強い怒りを買うでしょう.キャラバンにそのような人物がいる場合,彼らは永久にコロニーを見捨てます.\n\n無力化するには,黄金のキューブを選んでください.</GoldenCube.comps.CompStudyUnlocks.studyNotes.1.text>
-  <!-- EN: Destroy the golden cube, breaking its psychic hold. This will cause any cube-interested people to enter a temporary berserk rage. If they’re in a caravan, they will be permanently lost.\n\nRequires 1 shard. -->
+  <!-- EN: Destroy the golden cube, breaking its psychic hold. This will cause any cube-interested people to enter a temporary berserk rage. If they're in a caravan, they will be permanently lost.\n\nRequires 1 shard. -->
   <GoldenCube.comps.CompGoldenCube.activateDescString>黄金のキューブを破壊し,その精神支配を解除します.これにより,キューブに関心を寄せる人は一時的に激怒します.彼らがキャラバンに参加している場合,二度と会うことができなくなります.\n\n破片が1個必要です.</GoldenCube.comps.CompGoldenCube.activateDescString>
   <!-- EN: Deactivate golden cube -->
   <GoldenCube.comps.CompGoldenCube.activateLabelString>黄金のキューブの無力化</GoldenCube.comps.CompGoldenCube.activateLabelString>
@@ -65,7 +65,7 @@
   <!-- EN: Analyze... -->
   <GrayFleshSample.comps.CompAnalyzableBiosignature.activateLabelString>分析...</GrayFleshSample.comps.CompAnalyzableBiosignature.activateLabelString>
   <!-- EN: While analyzing the gray flesh sample, {PAWN_nameDef} finally isolated the biosignature {BIOSIGNATURE}!\n\nThe signature emerges from the fusing of human tissue and metallic bioferrite filaments which spider through the flesh and take control of the nervous system.\n\nYou can now use the surgical inspection operation to detect {BIOSIGNATURE} in living subjects. -->
-  <GrayFleshSample.comps.CompAnalyzableBiosignature.completedLetter>灰色の肉体サンプルの分析の結果,{PAWN_nameDef}はついにバイオシグネチャー{BIOSIGNATURE}の分離に成功しました！\n\nシグネチャーは金属製のバイオフェライトフィラメントが人間の組織と融合することで生まれた存在です.この存在は体中に網を張り巡らし,神経系を乗っ取ります.\n\nこの分析によって,生きた人間の体内に潜む{BIOSIGNATURE}を,外科的調査手術で検知できるようになりました.</GrayFleshSample.comps.CompAnalyzableBiosignature.completedLetter>
+  <GrayFleshSample.comps.CompAnalyzableBiosignature.completedLetter>灰色の肉体サンプルの分析の結果,{PAWN_nameDef}はついにバイオシグネチャー{BIOSIGNATURE}の分離に成功しました!\n\nシグネチャーは金属製のバイオフェライトフィラメントが人間の組織と融合することで生まれた存在です.この存在は体中に網を張り巡らし,神経系を乗っ取ります.\n\nこの分析によって,生きた人間の体内に潜む{BIOSIGNATURE}を,外科的調査手術で検知できるようになりました.</GrayFleshSample.comps.CompAnalyzableBiosignature.completedLetter>
   <!-- EN: Analysis complete -->
   <GrayFleshSample.comps.CompAnalyzableBiosignature.completedLetterLabel>分析完了</GrayFleshSample.comps.CompAnalyzableBiosignature.completedLetterLabel>
   <!-- EN: Choose who should analyze this -->
@@ -86,7 +86,7 @@
   <!-- EN: twisted meat -->
   <Meat_Twisted.label>捻れた肉</Meat_Twisted.label>
   <!-- EN: Pieces of twisted muscle and gristle, bloated with tumorous growths. These bizarre shreds of flesh must have come from a horrific creature. -->
-  <Meat_Twisted.description>ねじれた筋肉と軟骨,膨らんだ腫瘍で肥大化した肉片です.この奇妙な肉片は,この恐ろしい生物のものに違いないでしょう.</Meat_Twisted.description>
+  <Meat_Twisted.description>軟骨や捻じれた筋肉の破片が混ざりながら膨れ上がった,腫瘍のような肉の塊です.この奇妙な肉片は,間違いなく恐ろしい生物のものです.</Meat_Twisted.description>
   
   <!-- EN: monolith fragment -->
   <MonolithFragment.label>モノリスの破片</MonolithFragment.label>

@@ -26,8 +26,8 @@
   <AddictionCounsel60.titleShort>カウンセラー</AddictionCounsel60.titleShort>
   
   <!-- EN: [PAWN_nameDef]'s thirst for adventure took [PAWN_objective] to many planets. [PAWN_pronoun] visited the brightest glitterworlds and the darkest war-torn toxic planets in [PAWN_possessive] quest to find novelty and excitement.\n\n[PAWN_pronoun] worked as little as possible, often skirting ethical boundaries to make a quick buck. Among all jobs, [PAWN_pronoun] hated cooking the most. -->
-  <Adventurer19.description>冒険に飢えた[PAWN_nameDef]の心は,[PAWN_pronoun]に数多くの惑星へと足を運ばせました.目新しいもの,刺激的なものを探し求める冒険の旅で,輝けるグリッターワールドや,戦乱に荒れる暗黒の有毒惑星を訪れました.\n\n[PAWN_pronoun]は可能な限り働こうとせず,手っ取り早く金を得るために人としての一線を越えることもしばしばでした.あらゆる仕事の中で,料理を最も嫌いました.</Adventurer19.description>
-  <Adventurer19.baseDesc>冒険に飢えた[PAWN_nameDef]の心は,[PAWN_pronoun]に数多くの惑星へと足を運ばせました.目新しいもの,刺激的なものを探し求める冒険の旅で,輝けるグリッターワールドや,戦乱に荒れる暗黒の有毒惑星を訪れました.\n\n[PAWN_pronoun]は可能な限り働こうとせず,手っ取り早く金を得るために人としての一線を越えることもしばしばでした.あらゆる仕事の中で,料理を最も嫌いました.</Adventurer19.baseDesc>
+  <Adventurer19.description>冒険に飢えた[PAWN_nameDef]の心は,[PAWN_pronoun]に数多くの惑星へと足を運ばせました.目新しいもの,刺激的なものを探し求める冒険の旅で,輝けるGlitterworldや,戦乱に荒れる暗黒の有毒惑星を訪れました.\n\n[PAWN_pronoun]は可能な限り働こうとせず,手っ取り早く金を得るために人としての一線を越えることもしばしばでした.あらゆる仕事の中で,料理を最も嫌いました.</Adventurer19.description>
+  <Adventurer19.baseDesc>冒険に飢えた[PAWN_nameDef]の心は,[PAWN_pronoun]に数多くの惑星へと足を運ばせました.目新しいもの,刺激的なものを探し求める冒険の旅で,輝けるGlitterworldや,戦乱に荒れる暗黒の有毒惑星を訪れました.\n\n[PAWN_pronoun]は可能な限り働こうとせず,手っ取り早く金を得るために人としての一線を越えることもしばしばでした.あらゆる仕事の中で,料理を最も嫌いました.</Adventurer19.baseDesc>
   <!-- EN: adventurer -->
   <Adventurer19.title>冒険家</Adventurer19.title>
   <!-- EN: adventurer -->
@@ -513,13 +513,13 @@
   <!-- EN: researcher -->
   <CorpResearcher93.titleShort>研究者</CorpResearcher93.titleShort>
   
-  <!-- EN: Living on the streets, [PAWN_nameDef] submitted [PAWN_objective]self to an unethical cosmetics lab in exchange for food and shelter.\n\nAfter some painful cosmetic modification, [PAWN_nameDef] barely resembles [PAWN_possessive] former self. Having been forced to work for the lab until [PAWN_pronoun] was rescued, [PAWN_nameDef] is now too afraid to lash out at anyone. -->
-  <CosmeticReject64.description>街角で暮らしていた,[PAWN_nameDef]は,食べ物や寝床と交換に,汚い化粧品研究所で,奴隷のような扱いを受けていました.\n\n何回か,苦痛を伴う美容整形をうけた後,[PAWN_pronoun]は,かろうじて元の姿を取り戻しました.[PAWN_pronoun]は助け出されるまで,むりやり研究所で働かされていました,[PAWN_pronoun]は,誰でも悪口を言う人を,とてもひどく怖がりました.</CosmeticReject64.description>
-  <CosmeticReject64.baseDesc>街角で暮らしていた,[PAWN_nameDef]は,食べ物や寝床と交換に,汚い化粧品研究所で,奴隷のような扱いを受けていました.\n\n何回か,苦痛を伴う美容整形をうけた後,[PAWN_pronoun]は,かろうじて元の姿を取り戻しました.[PAWN_pronoun]は助け出されるまで,むりやり研究所で働かされていました,[PAWN_pronoun]は,誰でも悪口を言う人を,とてもひどく怖がりました.</CosmeticReject64.baseDesc>
-  <!-- EN: cosmetic reject -->
-  <CosmeticReject64.title>整形で受けた傷</CosmeticReject64.title>
-  <!-- EN: reject -->
-  <CosmeticReject64.titleShort>傷もの</CosmeticReject64.titleShort>
+  <!-- EN: The glitterworld audience wasn't yet ready for [PAWN_nameDef]'s Vidtube series with all of its spanners and hammers and planners - that kind of work's for mechanoids, they said! Undeterred, [PAWN_pronoun] set out for the stars, in search of people who would appreciate [PAWN_possessive] skills. The wildlife out there looks scary, though... -->
+  <CosmeticReject64.description>[PAWN_nameDef]はVidtubeに動画を投稿していましたが,動画で使われるスパナやハンマー,手帳などの道具が,Glitterworldの視聴者にはまだ早すぎました.「そんな仕事はメカノイドのやるものだ!」と,彼ら言われた[PAWN_pronoun]は,そんな意見にも怯むことなく,自分のスキルを認めてくれる人を見つけるために,星空へと旅立ちました.そして[PAWN_pronoun]は,そこにいる野生動物の姿に恐怖を覚えたようです...</CosmeticReject64.description>
+  <CosmeticReject64.baseDesc>[PAWN_nameDef]はVidtubeに動画を投稿していましたが,動画で使われるスパナやハンマー,手帳などの道具が,Glitterworldの視聴者にはまだ早すぎました.「そんな仕事はメカノイドのやるものだ!」と,彼ら言われた[PAWN_pronoun]は,そんな意見にも怯むことなく,自分のスキルを認めてくれる人を見つけるために,星空へと旅立ちました.そして[PAWN_pronoun]は,そこにいる野生動物の姿に恐怖を覚えたようです...</CosmeticReject64.baseDesc>
+  <!-- EN: traveling handywoman -->
+  <CosmeticReject64.title>旅する修理工</CosmeticReject64.title>
+  <!-- EN: handywoman -->
+  <CosmeticReject64.titleShort>修理工</CosmeticReject64.titleShort>
   
   <!-- EN: [PAWN_nameDef] had a terrible bedside manner due to [PAWN_possessive] abrasiveness. [PAWN_pronoun] often bullied [PAWN_possessive] patients into getting cosmetic surgery. [PAWN_pronoun] made a lot of money this way.\n\nWhile very studious and careful in [PAWN_possessive] work, [PAWN_pronoun] never had to lift a finger doing domestic chores. -->
   <CosmeticSurgeon36.description>[PAWN_nameDef]は,[PAWN_possessive]イライラさせる性格がもとで,患者にひどい扱い方をします.[PAWN_pronoun]は,よく[PAWN_possessive]患者を脅して美容整形を受けさせていました.[PAWN_pronoun]は,こうして大金を稼いでいました.\n\n[PAWN_possessive]仕事には,非常に熱心で注意深いのに,[PAWN_pronoun]は,家の雑用をする為に,手をあげるようなことは一切しませんでした.</CosmeticSurgeon36.description>
@@ -530,8 +530,8 @@
   <CosmeticSurgeon36.titleShort>外科医</CosmeticSurgeon36.titleShort>
   
   <!-- EN: By day, [PAWN_nameDef] was an office worker on a midworld. At night, [PAWN_pronoun] designed and built elaborate monster costumes for science fiction conventions.\n\n[PAWN_pronoun] learned a great deal about sewing. Unfortunately this came at the cost of being able to cook anything more complex than an instant meal. -->
-  <CostumeCrafter41.description>[PAWN_nameDef]は,日中はMidworldのサラリーマンとして働き,夜は,ＳＦコスプレ用のモンスター衣装を念入りに作っていました.\n\n[PAWN_pronoun]は,縫製に関して素晴らしい技術を身につけました.残念なことに,インスタント食品以上の手の込んだ料理ができるということが犠牲になりました.</CostumeCrafter41.description>
-  <CostumeCrafter41.baseDesc>[PAWN_nameDef]は,日中はMidworldのサラリーマンとして働き,夜は,ＳＦコスプレ用のモンスター衣装を念入りに作っていました.\n\n[PAWN_pronoun]は,縫製に関して素晴らしい技術を身につけました.残念なことに,インスタント食品以上の手の込んだ料理ができるということが犠牲になりました.</CostumeCrafter41.baseDesc>
+  <CostumeCrafter41.description>[PAWN_nameDef]は昼間はMidworldの会社員として働き,夜になると,SF大会用の精巧なモンスター衣装をデザインし,製作していました.\n\n[PAWN_pronoun]は,縫製に関して素晴らしい技術を身につけました.しかしその代償として,インスタント食品よりも複雑な料理を作ることができなくなってしまいました.</CostumeCrafter41.description>
+  <CostumeCrafter41.baseDesc>[PAWN_nameDef]は昼間はMidworldの会社員として働き,夜になると,SF大会用の精巧なモンスター衣装をデザインし,製作していました.\n\n[PAWN_pronoun]は,縫製に関して素晴らしい技術を身につけました.しかしその代償として,インスタント食品よりも複雑な料理を作ることができなくなってしまいました.</CostumeCrafter41.baseDesc>
   <!-- EN: costume crafter -->
   <CostumeCrafter41.title>コス衣装製作者</CostumeCrafter41.title>
   <!-- EN: costumer -->
@@ -1337,11 +1337,6 @@
   <!-- EN: henchman -->
   <MobHenchman53.titleShort>子分</MobHenchman53.titleShort>
   
-  <!-- UNUSED -->
-  <ModDesigner85.baseDesc>[PAWN_nameDef]は最前線の兵士のためのMODパーツを設計していました.\n\nある夜,[PAWN_nameDef]は悪夢の中で,[PAWN_possessive]仕事によって殺された全ての男女に直面しました.[PAWN_pronoun]はRimworldに行き,自分のスキルを十分に使うことを決心しました.</ModDesigner85.baseDesc>
-  <ModDesigner85.title>MOD設計者</ModDesigner85.title>
-  <ModDesigner85.titleShort>設計者</ModDesigner85.titleShort>
-  
   <!-- EN: [PAWN_nameDef] specialized in studying and manipulating the genetic code of the muffalo.\n\n[PAWN_possessive] work left little time to develop an appreciation for the arts or other people's company. -->
   <MuffaloResearcher67.description>[PAWN_nameDef]は,マッファローの生態と,遺伝子操作に特化しました.\n\n[PAWN_possessive]作業は,少しだけ他の企業や技術の発展に貢献しました.</MuffaloResearcher67.description>
   <MuffaloResearcher67.baseDesc>[PAWN_nameDef]は,マッファローの生態と,遺伝子操作に特化しました.\n\n[PAWN_possessive]作業は,少しだけ他の企業や技術の発展に貢献しました.</MuffaloResearcher67.baseDesc>
@@ -2063,10 +2058,10 @@
   <StilettoAssassin34.titleShort>暗殺者</StilettoAssassin34.titleShort>
   
   <!-- EN: [PAWN_nameDef] traveled [PAWN_possessive] world recounting the legends that [PAWN_pronoun] had studied.\n\nObsessed with the legends of [PAWN_possessive] people, [PAWN_nameDef] seeks someone who can help [PAWN_objective] grow scales on [PAWN_possessive] skin, so [PAWN_pronoun] too can be as the ancients were. -->
-  <Storyteller63.description>[PAWN_nameDef]は,[PAWN_pronoun]が学んだ伝説を詳述するために,[PAWN_possessive]世界を旅していました.\n\n民族の伝説に取り憑かれた[PAWN_nameDef]は,古代人のように,[PAWN_possessive]肌に鱗を生やすことを手助けできる人を探しています.</Storyteller63.description>
-  <Storyteller63.baseDesc>[PAWN_nameDef]は,[PAWN_pronoun]が学んだ伝説を詳述するために,[PAWN_possessive]世界を旅していました.\n\n民族の伝説に取り憑かれた[PAWN_nameDef]は,古代人のように,[PAWN_possessive]肌に鱗を生やすことを手助けできる人を探しています.</Storyteller63.baseDesc>
+  <Storyteller63.description>[PAWN_nameDef]は自身の学んだ数々の伝説を広く伝えるため,故郷の惑星を旅していました.\n\n[PAWN_nameDef]はやがて[PAWN_possessive]先祖にまつわる伝説に執着し始めました.[PAWN_pronoun]は自分もまた彼らのような鱗の肌になりたいと望むようになり,それを手助けしてくれる誰かを探しています.</Storyteller63.description>
+  <Storyteller63.baseDesc>[PAWN_nameDef]は自身の学んだ数々の伝説を広く伝えるため,故郷の惑星を旅していました.\n\n[PAWN_nameDef]はやがて[PAWN_possessive]先祖にまつわる伝説に執着し始めました.[PAWN_pronoun]は自分もまた彼らのような鱗の肌になりたいと望むようになり,それを手助けしてくれる誰かを探しています.</Storyteller63.baseDesc>
   <!-- EN: storyteller -->
-  <Storyteller63.title>ストーリーテラー</Storyteller63.title>
+  <Storyteller63.title>物語の語り手</Storyteller63.title>
   <!-- EN: fabulist -->
   <Storyteller63.titleShort>寓話作家</Storyteller63.titleShort>
   
@@ -2118,7 +2113,7 @@
   <!-- EN: soldier -->
   <TechnologyDoctor35.titleShort>兵士</TechnologyDoctor35.titleShort>
   
-  <!-- EN: [PAWN_nameDef] enrolled in a scientific study that promised it could make [PAWN_objective] smarter. Unfortunately, the side effects were very different than [PAWN_pronoun] expected.[PAWN_pronoun] went insane and killed a number of people before escaping. -->
+  <!-- EN: [PAWN_nameDef] enrolled in a scientific study that promised it could make [PAWN_objective] smarter. Unfortunately, the side effects were very different than [PAWN_pronoun] expected. [PAWN_pronoun] went insane and killed a number of people before escaping. -->
   <TestSubject39.description>[PAWN_nameDef]は,もっと賢くなれると約束した科学的研究に参加しました.残念ながら,副作用は[PAWN_pronoun]の予想したものとは非常に異なっていました.[PAWN_pronoun]は気が狂い,逃げる前に多くの人々を殺しました.</TestSubject39.description>
   <TestSubject39.baseDesc>[PAWN_nameDef]は,もっと賢くなれると約束した科学的研究に参加しました.残念ながら,副作用は[PAWN_pronoun]の予想したものとは非常に異なっていました.[PAWN_pronoun]は気が狂い,逃げる前に多くの人々を殺しました.</TestSubject39.baseDesc>
   <!-- EN: test subject -->

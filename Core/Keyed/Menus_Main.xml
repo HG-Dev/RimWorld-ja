@@ -3,7 +3,7 @@
 
   <!-- Main menu -->
   <!-- EN: Tutorial -->
-  <Tutorial>操作方法の説明</Tutorial>
+  <Tutorial>チュートリアル</Tutorial>
   <!-- EN: New colony -->
   <NewColony>新しくはじめる</NewColony>
   <!-- EN: Back to game -->
@@ -46,21 +46,29 @@
   <FictionPrimer>Fiction primer</FictionPrimer>
   <!-- EN: Ludeon blog -->
   <LudeonBlog>Ludeon blog</LudeonBlog>
-  <!-- EN: Forums -->
-  <Forums>Forums</Forums>
+  <!-- EN: Subreddit -->
+  <Subreddit>Subreddit</Subreddit>
   <!-- EN: Official wiki -->
   <OfficialWiki>Official wiki</OfficialWiki>
-  <!-- EN: Tynan's twitter -->
-  <TynansTwitter>Tynan's twitter</TynansTwitter>
+  <!-- EN: Tynan's X -->
+  <TynansX>Tynan's X</TynansX>
   <!-- EN: Tynan's design book -->
   <TynansDesignBook>Tynan's design book</TynansDesignBook>
   <!-- EN: Help translate RimWorld -->
   <HelpTranslate>Help translate RimWorld</HelpTranslate>
-  <!-- EN: Buy soundtrack -->
-  <BuySoundtrack>Buy soundtrack</BuySoundtrack>
   <!-- EN: Create world -->
   <CreateWorld>惑星を創造</CreateWorld>
-
+  <!-- EN: Buy soundtrack -->
+  <BuySoundtrack>Buy soundtrack</BuySoundtrack>
+  <!-- EN: RimWorld Soundtrack -->
+  <BuySoundtrack_Classic>RimWorld Soundtrack</BuySoundtrack_Classic>
+  <!-- EN: RimWorld - Royalty Soundtrack -->
+  <BuySoundtrack_Royalty>RimWorld - Royalty Soundtrack</BuySoundtrack_Royalty>
+  <!-- EN: RimWorld - Anomaly Soundtrack -->
+  <BuySoundtrack_Anomaly>RimWorld - Anomaly Soundtrack</BuySoundtrack_Anomaly>
+  <!-- EN: RimWorld - Odyssey Soundtrack -->
+  <BuySoundtrack_Odyssey>RimWorld - Odyssey Soundtrack</BuySoundtrack_Odyssey>
+  
   <!-- Main menu translations info window -->
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
   <TranslationThanks>Rimworldの,全ての多言語翻訳はファンの手で作られた物です.このファンの手による翻訳は,次の素晴らしい有志たちによって作られました:\n\n{0}</TranslationThanks>
@@ -116,6 +124,8 @@
   <PlanetCoverageTip>惑星の直径は常に同じですが,大きなマップを選ぶと,処理時間が非常に掛かる為,惑星表面全体を生成しません. あなた望む,生成する惑星表面の割合を示します.</PlanetCoverageTip>
   <!-- EN: Factions -->
   <WorldFactionsTab>派閥</WorldFactionsTab>
+  <!-- EN: Advanced settings -->
+  <AdvancedSettings>詳細設定</AdvancedSettings>
 
   <!-- Select world -->
   <!-- EN: Select world -->
@@ -353,7 +363,7 @@
   <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
   <PermadeathModeInfo>ゲームをやめるときのみセーブできます.\n\nRimworldは物語を作る装置です.たとえ入植者がほぼ全滅したとしても,コロニーに生き残りがいれば,それもまたひとつの物語になります.このゲームは損失からでも再生できるようにデザインされています.\n\n厳しく辛い状況を乗り越えた果てに悲劇と喜びのストーリーが生まれるのです.ルーク・スカイウォーカーには,彼の家族が殺されたときでも,止めたり,巻き戻したりしないことには,訳があるのです-損失と再生はドラマチックなものです.</PermadeathModeInfo>
   <!-- EN: Storyteller and playstyle can be changed any time. -->
-  <CanChangeStorytellerSettingsDuringPlay>ストーリーテラーとプレイスタイルは,いつでも変更できます.</CanChangeStorytellerSettingsDuringPlay>
+  <CanChangeStorytellerSettingsDuringPlay>ストーリーテラーとプレイスタイルはいつでも変更可能</CanChangeStorytellerSettingsDuringPlay>
 
   <!-- custom difficulty settings -->
   <!-- EN: Custom playstyle settings -->
@@ -436,7 +446,7 @@
   <!-- EN: Colonist mood -->
   <Difficulty_ColonistMoodOffset_Label>入植者の心情</Difficulty_ColonistMoodOffset_Label>
   <!-- EN: A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%. -->
-  <Difficulty_ColonistMoodOffset_Info>全ての入植者と囚人に適用される,心情の永続的な増減量です.入植者の基本心情は50％です.</Difficulty_ColonistMoodOffset_Info>
+  <Difficulty_ColonistMoodOffset_Info>全ての入植者と囚人に適用される,心情の永続的な増減量です.入植者の基本心情は50%です.</Difficulty_ColonistMoodOffset_Info>
   <!-- EN: Food poison chance -->
   <Difficulty_FoodPoisonChanceFactor_Label>食中毒の確率補正</Difficulty_FoodPoisonChanceFactor_Label>
   <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
@@ -481,6 +491,10 @@
   <Difficulty_UnwaveringPrisoners_Label>動じない囚人を追加</Difficulty_UnwaveringPrisoners_Label>
   <!-- EN: This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier. -->
   <Difficulty_UnwaveringPrisoners_Info>このオプションは,揺るぎない忠誠心を持ち勧誘できない囚人をゲームに追加します.\n\n動じない囚人は通常の囚人とは別に追加されるため,これをオフにしても勧誘可能な囚人は増えません.動じない囚人が削除されるだけです.\n\n動じない囚人は,外交上の利益のために解放したり,売却したり,奴隷にしたり,臓器を摘出したり,それ以外にもいくつかの手段で利用できます.一般に,この設定はより多くのオプションとリソースを提供し,ゲームをより豊かで簡単にします.</Difficulty_UnwaveringPrisoners_Info>
+  <!-- EN: Nomadic mineable resources -->
+  <Difficulty_NomadicMineableResourcesFactor_Label>遊牧的な採掘資源</Difficulty_NomadicMineableResourcesFactor_Label>
+  <!-- EN: Adjust how many mineable resources are generated on maps after your first.\n\nNote: Your first colony map will always generate with the standard amount of resources. -->
+  <Difficulty_NomadicMineableResourcesFactor_Info>2回目以降に生成されるマップでの,採掘できる資源の量を調整します.\n\n注：一番最初のコロニーマップでは必ず通常量の資源が生成されます.</Difficulty_NomadicMineableResourcesFactor_Info>
 
   <!-- EN: Player tools -->
   <DifficultyPlayerToolsSection>プレイヤーツール</DifficultyPlayerToolsSection>
@@ -537,19 +551,19 @@
   <!-- EN: Please select a site. -->
   <MustSelectStartingSite>目標を設定してください.</MustSelectStartingSite>
   <!-- EN: You cannot land on this biome: {0} -->
-  <CannotLandBiome>その地形は {0} なため,降下できません</CannotLandBiome>
+  <CannotLandBiome>着陸できない地域: {0}</CannotLandBiome>
   <!-- EN: Biome not implemented -->
-  <BiomeNotImplemented>気候が適していません</BiomeNotImplemented>
+  <BiomeNotImplemented>気候が適してない</BiomeNotImplemented>
   <!-- EN: You cannot land on impassable mountains. -->
-  <CannotLandImpassableMountains>山岳には着陸できません</CannotLandImpassableMountains>
+  <CannotLandImpassableMountains>山岳には着陸できません.</CannotLandImpassableMountains>
   <!-- EN: {0} already have a base there. -->
-  <BaseAlreadyThere>すでに {0} の本拠地となっています</BaseAlreadyThere>
+  <BaseAlreadyThere>すでに{0}に拠点にされています.</BaseAlreadyThere>
   <!-- EN: You already have a base there. -->
-  <YourBaseAlreadyThere>すでに 貴方の本拠地です</YourBaseAlreadyThere>
+  <YourBaseAlreadyThere>すでにあなたに拠点にされています.</YourBaseAlreadyThere>
   <!-- EN: This tile is occupied. -->
-  <TileOccupied>このタイルは占領下です</TileOccupied>
+  <TileOccupied>このタイルは占領されています.</TileOccupied>
   <!-- EN: Settlements cannot be directly adjacent to each other. -->
-  <FactionBaseAdjacent>入植地は,お互いに接することはできません</FactionBaseAdjacent>
+  <FactionBaseAdjacent>入植地は互いに接することができません.</FactionBaseAdjacent>
   <!-- EN: Biome -->
   <Biome>気候</Biome>
   <!-- EN: Terrain -->
@@ -560,6 +574,8 @@
   <River>川</River>
   <!-- EN: Elevation -->
   <Elevation>高度</Elevation>
+  <!-- EN: Features -->
+  <TileMutators>特徴</TileMutators>
   <!-- EN: Fertility -->
   <Fertility>豊穣</Fertility>
   <!-- EN: fertility -->
@@ -569,7 +585,7 @@
   <!-- EN: Rainfall -->
   <Rainfall>降雨量</Rainfall>
   <!-- EN: Special features -->
-  <SpecialFeatures>特徴</SpecialFeatures>
+  <SpecialFeatures>特殊な特徴</SpecialFeatures>
   <!-- EN: northern coast -->
   <HasCoast0>北端は海岸</HasCoast0>
   <!-- EN: eastern coast -->
@@ -721,23 +737,31 @@
   <ClickForMoreInfo>クリックで詳細を見る.</ClickForMoreInfo>
   <!-- EN: No more information is available. -->
   <NoMoreInfoAvailable>これ以上の情報はありません.</NoMoreInfoAvailable>
+  <!-- EN: Best skill -->
+  <BestSkillLabel>最も高いスキル</BestSkillLabel>
+  <!-- EN: {PAWN_nameDef}'s best stat -->
+  <BestSkillLetterLabel>{PAWN_nameDef}の最も高いスキル</BestSkillLetterLabel>
+  <!-- EN: skill level {0} -->
+  <BestSkillInfoLevel>スキルレベル {0}</BestSkillInfoLevel>
 
   <!-- Factions -->
   <!-- EN: Factions -->
   <Factions>派閥</Factions>
   <!-- EN: max {0} basic factions allowed -->
-  <TotalFactionsAllowed>基本派閥は最大{0}つまで許可されます.</TotalFactionsAllowed>
+  <TotalFactionsAllowed>基本派閥は最大{0}まで</TotalFactionsAllowed>
   <!-- EN: max {0} -->
   <MaxFactionsForType>最大{0}</MaxFactionsForType>
   <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
   <FactionSelectionDesc>ワールドの派閥を選択してください.合計で最大{0}つまで派閥を選択できます.</FactionSelectionDesc>
   <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
-  <FactionDisabledContentWarning>{0}を無効にすると,クエストの種類が少なくなり,コンテンツが減ります.</FactionDisabledContentWarning>
+  <FactionDisabledContentWarning>{0}を無効にすると, クエストの種類が少なくなり, コンテンツが減ります.</FactionDisabledContentWarning>
   <!-- EN: Disabling {0} means less spontaneous threat variety. -->
-  <InsectsDisabledContentWarning>{0}を無効にすると,一部の脅威の種類が少なくなります.</InsectsDisabledContentWarning>
+  <InsectsDisabledContentWarning>{0}を無効にすると, 自然に発生する脅威の種類が 少なくなります.</InsectsDisabledContentWarning>
   <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
-  <MechanoidsDisabledContentWarning>{0}を無効にすると,クエストの数と一部の脅威の種類が少なくなります.</MechanoidsDisabledContentWarning>
+  <MechanoidsDisabledContentWarning>{0}を無効にすると, クエストと 自然に発生する脅威の種類が 少なくなります.</MechanoidsDisabledContentWarning>
   <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
-  <FactionsDisabledWarning>他の派閥がない場合,襲撃,取引,クエストが通常どおりに発生しません.</FactionsDisabledWarning>
+  <FactionsDisabledWarning>派閥が1つもない場合,襲撃,取引,クエストが通常どおりに発生しません.</FactionsDisabledWarning>
+  <!-- EN: Cannot be removed for this scenario. -->
+  <FactionRemovalDisabled>このシナリオでは削除できません.</FactionRemovalDisabled>
 
 </LanguageData>

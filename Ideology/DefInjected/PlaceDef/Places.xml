@@ -337,7 +337,7 @@
     <li>place_massWeapon->エアロゾル化毒素</li>
     <li>place_massWeapon->[anEMPAttack]</li>
     <li>place_massWeapon->生命維持装置妨害ウイルス</li>
-    <li>place_foeLeader->巨大会社CEO</li>
+    <li>place_foeLeader->大手企業のCEO</li>
     <li>place_foeSoldiers->警官傭兵</li>
   </Iwamura.placeRules.rulesStrings>
   
@@ -451,8 +451,8 @@
     <li>place_name->ノヴァロマ</li>
     <li>place_adjective->ノヴァロマの</li>
     <li>place_summary->小惑星</li>
-    <li>place_community->許しの聖職者</li>
-    <li>place_community->市外の門番</li>
+    <li>place_community->許可省</li>
+    <li>place_community->砦のある郊外</li>
     <li>place_community->オーバーシティ</li>
     <li>place_community->アンダーシティ</li>
     <li>place_powerCenter->メガシティオーバーホール</li>
@@ -490,8 +490,8 @@
     <li>place_foeSoldiers->stygian soldiers</li>
   -->
   <Nuchadus.placeRules.rulesStrings>
-    <li>place_name->ヌチャドゥス</li>
-    <li>place_adjective->ヌチャドゥスの</li>
+    <li>place_name->ヌーチャダス</li>
+    <li>place_adjective->ヌーチャダスの</li>
     <li>place_summary->薄暗いボルケーノワールド</li>
     <li>place_community->玄武岩島</li>
     <li>place_community->カルデラ湖タウン</li>
@@ -615,7 +615,7 @@
   <Rogia.placeRules.rulesStrings>
     <li>place_name->ロギア</li>
     <li>place_adjective->ロギアの</li>
-    <li>place_summary->グリッターワールド</li>
+    <li>place_summary->Glitterworld</li>
     <li>place_community->医学研究所</li>
     <li>place_community->スペースエレベーター</li>
     <li>place_community->ロボット工場</li>

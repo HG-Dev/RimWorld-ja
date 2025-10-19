@@ -23,7 +23,7 @@
   <Disable>無効</Disable>
   <!-- EN: Modify -->
   <Modify>変更</Modify>
-  <!-- EN: Settle here anyways? -->
+  <!-- EN: Settle here anyway? -->
   <ConfirmSettle>本当にここに入植しますか?</ConfirmSettle>
   <!-- EN: add -->
   <Add>追加</Add>
@@ -76,7 +76,7 @@
   
   <!-- Missing Steam -->
   <!-- EN: Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available. -->
-  <SteamClientMissing>"Steam API"の初期化ができませんでした.可能性のある原因：\n\n -"Steam"が起動していない.\n - steam_appid.txtが無い,Steam以外の場所から起動しようとした.\n -違う特権で起動しようとした(例：administrator)\n\nほとんどの場合,コンピュータの再起動でこの問題は解決するでしょう.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
+  <SteamClientMissing>Steam API の初期化に失敗しました. 可能性のある原因は以下の通り：\n\n - Steamが起動していない.\n - steam_appid.txtがない状態でSteam以外の場所から起動しようとした.\n - Steamクライアントとは異なる権限で起動しようとした.(例えば"管理者として実行"など)\n\n大抵の場合,PCを再起動すればこの問題は解決するでしょう.\n\nこの状態でもゲームプレイは可能ですが,プレイ情報がSteamへ記録されず,また,Steamの機能をゲーム中に使えなくなります.</SteamClientMissing>
   
   <!-- Long events -->
   <!-- EN: Initializing interface -->
@@ -186,7 +186,7 @@
   <!-- EN: The animal's name is now {0}. -->
   <AnimalGainsName>この動物の名前を{0}としました.</AnimalGainsName>
   <!-- EN: rename person -->
-  <RenamePerson>人物をリネーム</RenamePerson>
+  <RenamePerson>人物の名前を変更</RenamePerson>
   <!-- EN: mother -->
   <Mother>母</Mother>
   <!-- EN: father -->
@@ -246,13 +246,17 @@
 
   <!-- Game start -->
   <!-- EN: Must include exactly {SUMMARY} -->
-  <SelectedCharactersMustInclude>{SUMMARY}を正確に含める必要があります</SelectedCharactersMustInclude>
+  <SelectedCharactersMustInclude>{SUMMARY}を正確に含める必要がある</SelectedCharactersMustInclude>
+  <!-- EN: All colonists must be {0} -->
+  <SelectedCharactersMustBeOfAllowedDevelopmentalStages>すべての入植者が{0}である必要がある</SelectedCharactersMustBeOfAllowedDevelopmentalStages>
+  <!-- EN: At least one colonist must be capable of {0} -->
+  <SelectedCharacterMustBeCapableOf>{0}を行える入植者が最低でも1人必要</SelectedCharacterMustBeCapableOf>
 
   <!-- Advanced game start options -->
-  <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
-  <MapTemperatureDangerWarning>警告：あなたは極寒のまっただ中に着陸しようとしています.それは自殺行為に等しいです.不可能なことに挑みたいのでなければ,着陸地点を変更するか,日付を変更してください.</MapTemperatureDangerWarning>
+  <!-- EN: Warning: You will be landing in winter. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different season. -->
+  <MapWinterWarning>警告：あなたは冬の季節の場所に着陸しようとしています.それは自殺行為に等しいです.不可能なことに挑みたいのでなければ,日付を変更してください.</MapWinterWarning>
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
-  <MapSizePerformanceWarning>このゲームはミディアムマップサイズで遊ぶように設計されています.この大きさは相当広いゲーム空間を提供します.\n\n大きなマップサイズは処理速度が低下するだけでなく - ゲームデザインの本質をも壊します.AIは,馬鹿な決断をしたり,様々な方面でゲームバランスに悪い結果をもたらします.このサイズは,テスト的な目的で,それを引き継いだ為に含まれているので,これらの状況を省みずには使用しないでください.</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>このゲームは中サイズのマップでプレイすることを想定しています.このマップサイズは非常に大きなゲーム空間をもたらすでしょう!\n\n広大なマップは処理速度を低下させるだけでなく,ゲームデザインをも壊します.AIは愚かな判断をするようになり,様々な面でゲームバランスに悪影響を与えます.このマップサイズは,テストプレイ用に慣習的に用意されたものなので,特別な理由がない限り使用しないでください.</MapSizePerformanceWarning>
   <!-- EN: Map size -->
   <MapSize>マップサイズ</MapSize>
   <!-- EN: {0}x{0} ({1} cells) -->
@@ -461,7 +465,7 @@
   <!-- EN: Cover effectiveness -->
   <CoverEffectiveness>カバー効力</CoverEffectiveness>
   <!-- EN: How effective this is when used as cover in a gunfight.\n\nHigher percentages will block more shots. -->
-  <CoverEffectivenessExplanation>銃撃戦において,このカバーに身を隠したときの効力を表します.％の数値が高いほど,より銃弾をブロックします.</CoverEffectivenessExplanation>
+  <CoverEffectivenessExplanation>銃撃戦において,このカバーに身を隠したときの効力を表します.%の数値が高いほど,より銃弾をブロックします.</CoverEffectivenessExplanation>
   <!-- EN: Experience gain factor -->
   <MedicineXpGainFactor>獲得する経験利得</MedicineXpGainFactor>
   <!-- EN: Mood change -->
@@ -469,7 +473,7 @@
   <!-- EN: Wildness -->
   <Wildness>野性</Wildness>
   <!-- EN: Wilder creatures are naturally more difficult to tame, train, and handle. -->
-  <WildnessExplanation>野性に近い動物は,手懐けたり,調教するのが,より難しくなります.</WildnessExplanation>
+  <WildnessExplanation>野生に近い動物は手懐けたり,調教したり,従わせるのがより難しくなります.</WildnessExplanation>
   <!-- EN: Training decay interval -->
   <TrainingDecayInterval>調教値減衰間隔</TrainingDecayInterval>
   <!-- EN: Tameness will never decay for animals of very low wildness. -->
@@ -531,7 +535,7 @@
   <!-- EN: Pack animal -->
   <PackAnimal>駄載獣</PackAnimal>
   <!-- EN: Whether this animal is appropriate to use to carry items in a caravan over long distances. -->
-  <PackAnimalExplanation>この動物は,キャラバン隊が長い距離,アイテムを運ぶのに適しています.</PackAnimalExplanation>
+  <PackAnimalExplanation>この動物がキャラバンで長距離,荷物を運ぶのに適しているかどうかです.</PackAnimalExplanation>
   <!-- EN: Skill -->
   <Skill>スキル</Skill>
   <!-- EN: Success rate multiplier -->
@@ -699,7 +703,9 @@
   <!-- EN: Return to trade mode. -->
   <TradeModeTip>取り引きモードに戻ります.</TradeModeTip>
   <!-- EN: {FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
-  <TradeCaravanRequestDeniedDueTitle>{FACTION_name}はキャラバン隊を送るつもりはありません.なぜなら{NEGOTIATOR_nameDef}には{TITLE}の肩書が欠けているからです.</TradeCaravanRequestDeniedDueTitle>
+  <TradeCaravanRequestDeniedDueTitle>{NEGOTIATOR_nameDef}は{TITLE}以上の肩書を持っていないため,{FACTION_name}はキャラバン隊を送るつもりがありません.</TradeCaravanRequestDeniedDueTitle>
+  <!-- EN: {FACTION_name} is not willing to send an orbital trader because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
+  <OrbitalTradeRequestDeniedDueTitle>{NEGOTIATOR_nameDef}は{TITLE}以上の肩書を持っていないため,{FACTION_name}は商船を送るつもりがありません.</OrbitalTradeRequestDeniedDueTitle>
 
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->
@@ -728,6 +734,10 @@
   <Send>出発する</Send>
   <!-- EN: Number available to send with the caravan. -->
   <FormCaravanColonyThingCountTip>キャラバン隊と共に編成可能数</FormCaravanColonyThingCountTip>
+  <!-- EN: Number available to transport. -->
+  <TransporterColonyThingCountTip>輸送可能数</TransporterColonyThingCountTip>
+  <!-- EN: Number available to transfer. -->
+  <TransferMapPortalColonyThingCountTip>移動可能数</TransferMapPortalColonyThingCountTip>
   <!-- EN: People and animals -->
   <PawnsTab>メンバー</PawnsTab>
   <!-- EN: Items -->
@@ -783,7 +793,7 @@
   <!-- EN: You must choose a route for the caravan first. -->
   <MessageMustChooseRouteFirst>最初にキャラバン隊のルートを選択しなければなりません.</MessageMustChooseRouteFirst>
   <!-- EN: Your caravan is unable to leave the area. Make sure that at least one side is reachable. -->
-  <MessageNoValidExitTile>キャラバン隊はこのエリアを離れることができません.少なくとも,マップの端のどこかが到達可能か確認してください.</MessageNoValidExitTile>
+  <MessageNoValidExitTile>キャラバン隊はこのエリアを離れることができません.少なくとも1か所,マップ端のどこかに到達できるようにしてください.</MessageNoValidExitTile>
   <!-- EN: Weight of this item. -->
   <ItemWeightTip>このアイテムの重量</ItemWeightTip>
   <!-- EN: Market value -->
@@ -795,7 +805,7 @@
   <!-- EN: This animal can graze food from the environment instead of eating carried food. Grazing is only possible in some biomes and temperature ranges. -->
   <AnimalCanGrazeTip>家畜は持ち込んだ食料を食べる代わりに土地で放牧することができます.放牧は,特定の気候帯と温度範囲内でのみ可能です.</AnimalCanGrazeTip>
   <!-- EN: Nutrition foraged per day. The actual amount foraged is also affected by biome forageability.\n\n{0} -->
-  <NutritionForagedPerDayTip>一日に調達できる栄養素数.実際の数値は気候帯の食料調達のしやすさも影響します.\n\n{0}</NutritionForagedPerDayTip>
+  <NutritionForagedPerDayTip>一日に調達できる栄養素数です.実際の数値はその土地の食料調達性も影響します.\n\n{0}</NutritionForagedPerDayTip>
   <!-- EN: Nutrition eaten per day. For reference, simple meals have {0} nutrition. -->
   <NutritionEatenPerDayTip>一日に摂取する栄養素の数です.参考までに簡単な食事は{0}栄養素です.</NutritionEatenPerDayTip>
   <!-- EN: Can eat -->
@@ -948,6 +958,8 @@
   <DuplicatePolicyTip>選択した方針を複製します.</DuplicatePolicyTip>
   <!-- EN: Rename this policy. -->
   <RenamePolicyTip>この方針の名前を変更します.</RenamePolicyTip>
+  <!-- EN: Make this policy the default policy given to new colonists. -->
+  <DefaultPolicyTip>この方針を新しい入植者にデフォルトで適用される方針にします.</DefaultPolicyTip>
   <!-- EN: Are you sure you want to delete the policy: {0}? -->
   <DeletePolicyConfirm>本当に次の方針を削除しますか?: {0}</DeletePolicyConfirm>
   <!-- EN: Delete -->
@@ -983,9 +995,9 @@
   <!-- EN: Frequency -->
   <FrequencyColumnLabel>頻度</FrequencyColumnLabel>
   <!-- EN: Only if mood below -->
-  <MoodThresholdColumnLabel>使用条件:"心情"が以下のとき</MoodThresholdColumnLabel>
+  <MoodThresholdColumnLabel>使用条件:"心情"が下回るとき</MoodThresholdColumnLabel>
   <!-- EN: Only if recreation below -->
-  <JoyThresholdColumnLabel>使用条件:"娯楽"が以下のとき</JoyThresholdColumnLabel>
+  <JoyThresholdColumnLabel>使用条件:"娯楽"が下回るとき</JoyThresholdColumnLabel>
   <!-- EN: Keep in inventory -->
   <TakeToInventoryColumnLabel>携帯数</TakeToInventoryColumnLabel>
   <!-- EN: (no drugs) -->
@@ -1011,7 +1023,7 @@
   <!-- EN: An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time. -->
   <TakeToInventoryColumnDesc>使用するためにドラッグを取りに行ったとき,余分に持ち出すドラッグの量です.予備の持ち出しを禁止すると,毎回,備蓄ゾーンにドラッグを取りにいきます.</TakeToInventoryColumnDesc>
   <!-- EN: For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
-  <DrugUsageTipForAddiction>中毒者の欲求目的の使用\n\n中毒者が欲求を維持するためにこのドラッグを使用します.\n\nたとえ無効であっても,一部の固有の特性を持ったキャラクター,精神崩壊した者は,どうしても,ドラッグを使うかもしれません.</DrugUsageTipForAddiction>
+  <DrugUsageTipForAddiction>薬物依存者の欲求目的の使用\n\n薬物依存者が欲求を維持するためにこのドラッグを使用します.\n\nたとえ無効であっても,一部の固有の特性を持ったキャラクター,精神崩壊した者は,どうしても,ドラッグを使うかもしれません.</DrugUsageTipForAddiction>
   <!-- EN: For recreation\n\nUse this drug for recreation and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway. -->
   <DrugUsageTipForJoy>娯楽目的の使用\n\n娯楽や人付き合いを目的としてこのドラッグを使用します.\n\nたとえ無効であっても,一部の固有の特性を持ったキャラクター,精神崩壊した者は,どうしても,ドラッグを使うかもしれません.</DrugUsageTipForJoy>
   <!-- EN: Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met. -->
@@ -1059,6 +1071,8 @@
   <SchematicPolicy>図解書</SchematicPolicy>
   <!-- EN: Novels -->
   <NovelPolicy>小説</NovelPolicy>
+  <!-- EN: Maps -->
+  <MapPolicy>地図</MapPolicy>
 
   <!-- Medical settings -->
   <!-- EN: Default medicine settings -->
@@ -1087,7 +1101,7 @@
   <!-- EN: Friendly faction members -->
   <MedGroupFriendlyFaction>友好派閥のメンバー</MedGroupFriendlyFaction>
   <!-- EN: Humans or animals who are part of a faction which is friendly with your faction (goodwill above 75). -->
-  <MedGroupFriendlyFactionDesc>あなたの派閥に友好的な派閥(友好値が75以上)に所属する人間,動物です.</MedGroupFriendlyFactionDesc>
+  <MedGroupFriendlyFactionDesc>あなたの派閥に友好的な派閥(友好値が75より高い)に所属する人間,動物です.</MedGroupFriendlyFactionDesc>
   
   <!-- EN: Neutral faction members -->
   <MedGroupNeutralFaction>中立派閥のメンバー</MedGroupNeutralFaction>
@@ -1097,7 +1111,7 @@
   <!-- EN: Hostile faction members -->
   <MedGroupHostileFaction>敵対派閥のメンバー</MedGroupHostileFaction>
   <!-- EN: Humans or animals who are part of a faction which is hostile with your faction (goodwill below -75). -->
-  <MedGroupHostileFactionDesc>あなたの派閥に敵対的な派閥(友好値が-75以下)に所属する人間,動物です.</MedGroupHostileFactionDesc>
+  <MedGroupHostileFactionDesc>あなたの派閥に敵対的な派閥(友好値が-75より低い)に所属する人間,動物です.</MedGroupHostileFactionDesc>
 
   <!-- EN: Other humans -->
   <MedGroupNoFaction>その他の人間</MedGroupNoFaction>
@@ -1111,7 +1125,7 @@
 
   <!-- Growing -->
   <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
-  <NoGrowerCanPlant>{0}の種を蒔くのには, 栽培スキルが{1}必要です.\n\n誰も,これだけのスキルを持っていないので,この植物を育てられません.</NoGrowerCanPlant>
+  <NoGrowerCanPlant>{0}の種を蒔くには,栽培スキルが{1}必要です.\n\nこのレベルのスキルを持つ,動ける栽培者がいないため,誰もこの植物を育てられません.</NoGrowerCanPlant>
 
   <!-- Abandon home -->
   <!-- EN: Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0} -->
@@ -1138,8 +1152,10 @@
   <ConfirmBanishPawnDialog_IndividualThoughts>{1_labelShort}を追放すると,以下の人々に,次の感情が湧きます:</ConfirmBanishPawnDialog_IndividualThoughts>
 
   <!-- Send transport pods which are not completely loaded -->
-  <!-- EN: Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway? -->
-  <ConfirmSendNotCompletelyLoadedPods>ポッドグループは完全に荷積みしていません.{1_labelShort}が不明です,発射しますか?</ConfirmSendNotCompletelyLoadedPods>
+  <!-- EN: The following still need to be loaded -->
+  <ConfirmSendNotCompletelyLoadedLaunchable>次のものがまだ荷積みされていません</ConfirmSendNotCompletelyLoadedLaunchable>
+  <!-- EN: Launch anyway? -->
+  <ConfirmSendLaunchAnyway>本当に発射しますか?</ConfirmSendLaunchAnyway>
 
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days. -->
@@ -1147,7 +1163,7 @@
   
   <!-- Cleanup translation files -->
   <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
-  <ConfirmCleanupTranslationFiles>{0}の翻訳ファイルを正規化します.本当によろしいですか?\n\n次のことが実行されます:\n　-翻訳文が欠けている場所には空の要素(TODO)が仮置きされます\n　-それぞれの翻訳文の前に,未翻訳の原文(英語)がコメント文として挿入されます\n　-全ての翻訳文が適切なXMLファイル内に再配置されます\n　-全てのXMLファイルについて書式が自動的に整えられます\n　-旧バージョンで使用されていた要素名()は新しいものに置き換えられます\n　-既存のコメント文は全て削除されます(ただしリスト要素へのコメントは残ります)\n\nXMLファイル以外が削除・変更されることはありません.\n\nこの作業を始める前にゲームの再起動を忘れずに行ってください.最新の翻訳データを読み込んでおく必要があります.\n\nあらかじめ{0}の翻訳ファイルは全てバックアップしておきましょう.</ConfirmCleanupTranslationFiles>
+  <ConfirmCleanupTranslationFiles>{0}の翻訳ファイルを正規化します.本当によろしいですか?\n\n次のことが実行されます:\n  -翻訳文が欠けている場所には空の要素(TODO)が仮置きされます\n  -それぞれの翻訳文の前に,未翻訳の原文(英語)がコメント文として挿入されます\n  -全ての翻訳文が適切なXMLファイル内に再配置されます\n  -全てのXMLファイルについて書式が自動的に整えられます\n  -旧バージョンで使用されていた要素名()は新しいものに置き換えられます\n  -既存のコメント文は全て削除されます(ただしリスト要素へのコメントは残ります)\n\nXMLファイル以外が削除・変更されることはありません.\n\nこの作業を始める前にゲームの再起動を忘れずに行ってください.最新の翻訳データを読み込んでおく必要があります.\n\nあらかじめ{0}の翻訳ファイルは全てバックアップしておきましょう.</ConfirmCleanupTranslationFiles>
   <!-- EN: Yes, I have a backup -->
   <ConfirmCleanupTranslationFiles_Confirm>はい,バックアップしました</ConfirmCleanupTranslationFiles_Confirm>
 
@@ -1410,37 +1426,18 @@
   <CannotShootPawnIsPsychicallyDeaf>{0_labelShort}は精神的無反応です.</CannotShootPawnIsPsychicallyDeaf>
 
   <!-- EN: Search the current map. -->
-  <SearchTheMap>現在のマップ内から検索します.</SearchTheMap>
+  <SearchTheMap>現在のマップ内で検索</SearchTheMap>
   <!-- EN: Search the current map for items, buildings, people, animals, plants, and more. -->
   <SearchTheMapDesc>現在のマップ内からアイテム,建築物,人間,動物,植物などを検索します.</SearchTheMapDesc>
+  <!-- EN: Search the world -->
+  <SearchTheWorld>ワールド上で検索</SearchTheWorld>
+  <!-- EN: Search the world for specific features, landmarks, quests, or settlements. -->
+  <SearchTheWorldDesc>ワールドマップ上の特徴,ランドマーク,クエスト,集落などを検索します.</SearchTheWorldDesc>
   <!-- EN: {0} results found -->
   <MapSearchResults>検索結果{0}件</MapSearchResults>
   <!-- EN: 1 result found -->
   <MapSearchResultSingular>検索結果1件</MapSearchResultSingular>
   <!-- EN: Searching -->
   <Searching>検索中</Searching>
-
-  <!-- UNUSED -->
-  <Outfit>服装</Outfit>
-  <SelectOutfit>服装を選択...</SelectOutfit>
-  <NewOutfit>新しい服装</NewOutfit>
-  <DeleteOutfit>服装を削除...</DeleteOutfit>
-  <NoOutfitSelected>服装を選択していません</NoOutfitSelected>
-  <SelectDrugPolicy>適用方針を選択...</SelectDrugPolicy>
-  <NewDrugPolicy>適用方針を新規作成</NewDrugPolicy>
-  <DeleteDrugPolicy>適用方針を削除...</DeleteDrugPolicy>
-  <NoDrugPolicySelected>適用方針無し</NoDrugPolicySelected>
-  <DrugUsageColumnLabel>使用目的</DrugUsageColumnLabel>
-  <DrugUsageColumnDesc>ドラッグの使用目的です.</DrugUsageColumnDesc>
-  <FoodRestriction>食事制限</FoodRestriction>
-  <FoodRestrictionShort>食事</FoodRestrictionShort>
-  <SelectFoodRestriction>食事制限を選択</SelectFoodRestriction>
-  <NewFoodRestriction>新しい食事制限</NewFoodRestriction>
-  <DeleteFoodRestriction>食事制限を削除</DeleteFoodRestriction>
-  <NoFoodRestrictionSelected>食事制限を未選択</NoFoodRestrictionSelected>
-  <MedGroupColonist>入植者</MedGroupColonist>
-  <MedGroupImprisonedColonist>逮捕された入植者</MedGroupImprisonedColonist>
-  <MedGroupColonyAnimal>家畜</MedGroupColonyAnimal>
-  <MedGroupNeutralAnimal>野生動物</MedGroupNeutralAnimal>
 
 </LanguageData>

@@ -169,11 +169,6 @@
   <!-- EN: weirdo -->
   <ArtisticWeirdo56.titleShort>奇人</ArtisticWeirdo56.titleShort>
   
-  <!-- UNUSED -->
-  <ArtSlave57.baseDesc>[PAWN_nameDef]は,太陽に常に同じ面を向けて自転と公転をするUrbworldの,暗い面の方に生まれました.口論の末,[PAWN_possessive]父親は[PAWN_objective]奴隷芸術家として地方の領主に売りました.\n\nアートを描いたり,罰せられたりを余儀なくさせられた[PAWN_pronoun]は,他の人との関係を形成することができなくなりました.</ArtSlave57.baseDesc>
-  <ArtSlave57.title>奴隷芸術家</ArtSlave57.title>
-  <ArtSlave57.titleShort>芸術家</ArtSlave57.titleShort>
-  
   <!-- EN: [PAWN_nameDef] grew up as a rebel on an formerly-advanced rimworld devastated by war.\n\n[PAWN_possessive] Aspergers syndrome meant [PAWN_pronoun] struggled with social situations and was incapable of caring, but [PAWN_pronoun] learned hard skills like research and shooting very quickly. -->
   <AspergersRebel13.description>[PAWN_nameDef]は,戦争によって破壊された,過去には先進的だったRimworldで,反逆者として育ちました.\n\n[PAWN_pronoun]アスペルガー症候群は,彼が社交性に苦しみ,人を心配することができないことを意味します,しかし,研究と射撃のような困難なスキルを,素早く身につけました.</AspergersRebel13.description>
   <AspergersRebel13.baseDesc>[PAWN_nameDef]は,戦争によって破壊された,過去には先進的だったRimworldで,反逆者として育ちました.\n\n[PAWN_pronoun]アスペルガー症候群は,彼が社交性に苦しみ,人を心配することができないことを意味します,しかし,研究と射撃のような困難なスキルを,素早く身につけました.</AspergersRebel13.baseDesc>
@@ -375,8 +370,8 @@
   <ChildOfDrifters18.titleShort>漂流者</ChildOfDrifters18.titleShort>
   
   <!-- EN: [PAWN_nameDef] was raised underground on a "marble" planet - a wasteland of radioactive asphalt and toxic fallout.\n\nTo survive on a planet devoid of life, [PAWN_pronoun] had to learn how to farm underground and how to fight without wasting bullets. -->
-  <ChildOfGlass61.description>[PAWN_nameDef]は,Marble惑星の地下で育ちました - 放射性降下物質とアスファルトに覆われた不毛の地.\n\n死の惑星で生き残る為には,[PAWN_pronoun]は,どうやって地下で耕作するか,そして,どうやって無駄弾を撃たずに戦うか,その方法を身につけなければなりませんでした.</ChildOfGlass61.description>
-  <ChildOfGlass61.baseDesc>[PAWN_nameDef]は,Marble惑星の地下で育ちました - 放射性降下物質とアスファルトに覆われた不毛の地.\n\n死の惑星で生き残る為には,[PAWN_pronoun]は,どうやって地下で耕作するか,そして,どうやって無駄弾を撃たずに戦うか,その方法を身につけなければなりませんでした.</ChildOfGlass61.baseDesc>
+  <ChildOfGlass61.description>[PAWN_nameDef]は,Marble惑星の地下で育ちました - 死の灰とアスファルトに覆われた不毛の地.\n\n死の惑星で生き残る為には,[PAWN_pronoun]は,どうやって地下で耕作するか,そして,どうやって無駄弾を撃たずに戦うか,その方法を身につけなければなりませんでした.</ChildOfGlass61.description>
+  <ChildOfGlass61.baseDesc>[PAWN_nameDef]は,Marble惑星の地下で育ちました - 死の灰とアスファルトに覆われた不毛の地.\n\n死の惑星で生き残る為には,[PAWN_pronoun]は,どうやって地下で耕作するか,そして,どうやって無駄弾を撃たずに戦うか,その方法を身につけなければなりませんでした.</ChildOfGlass61.baseDesc>
   <!-- EN: child of glass -->
   <ChildOfGlass61.title>温室の子供</ChildOfGlass61.title>
   <!-- EN: survivor -->
@@ -886,12 +881,12 @@
   <!-- EN: ganger -->
   <GangMember83.titleShort>半グレ</GangMember83.titleShort>
   
-  <!-- EN: The son of a genetically-engineered "perfect mate" on a glitterworld, [PAWN_nameDef] was much more shy, withdrawn and nervous than [PAWN_possessive] parents. [PAWN_pronoun] kept mostly to [PAWN_objective]self, studying science and medicine and taking on gardening as a hobby. \n\nIn [PAWN_possessive] teens, [PAWN_pronoun] ran away from home, seeking a quieter life. -->
-  <GlitterworldKid85.description>Glitterworldでの遺伝子操作された"完璧すぎる子供",[PAWN_nameDef]はとてもシャイで,両親よりも,引っ込み思案の神経質でした.[PAWN_pronoun]は,もっぱら,科学を勉強したり,薬学,ガーデニングを趣味としてやっていました.\n\n10代の時,[PAWN_pronoun]は静かな暮らしを探しに,家を飛び出しました.</GlitterworldKid85.description>
-  <GlitterworldKid85.baseDesc>Glitterworldでの遺伝子操作された"完璧すぎる子供",[PAWN_nameDef]はとてもシャイで,両親よりも,引っ込み思案の神経質でした.[PAWN_pronoun]は,もっぱら,科学を勉強したり,薬学,ガーデニングを趣味としてやっていました.\n\n10代の時,[PAWN_pronoun]は静かな暮らしを探しに,家を飛び出しました.</GlitterworldKid85.baseDesc>
+  <!-- EN: The daughter of a glitterworld influencer and his genetically-engineered 'perfect mate', [PAWN_nameDef] grew up learning to rub shoulders with the cream of the crop - though [PAWN_pronoun] always preferred [PAWN_possessive] personal space, reading books and tinkering with tech. -->
+  <GlitterworldKid85.description>とあるインフルエンサーと,遺伝子操作された"完璧な伴侶"の間に生まれた[PAWN_nameDef]は,Glitterworldで育ち,優れた人物たちと交流を深めながら育ちました.しかし[PAWN_pronoun]は,自分の空間で過ごしたり,本を読んだり,技術的な物をいじったりすることをいつも好んでいました.</GlitterworldKid85.description>
+  <GlitterworldKid85.baseDesc>とあるインフルエンサーと,遺伝子操作された"完璧な伴侶"の間に生まれた[PAWN_nameDef]は,Glitterworldで,優れた人物たちと交流を深めながら育ちました.しかし,[PAWN_pronoun]は自分の空間で過ごしたり,本を読んだり,技術的な物をいじったりすることをいつも好んでいました.</GlitterworldKid85.baseDesc>
   <!-- EN: glitterworld kid -->
   <GlitterworldKid85.title>Glitterworldの児童</GlitterworldKid85.title>
-  <!-- EN: glit kid -->
+  <!-- EN: glitterkid -->
   <GlitterworldKid85.titleShort>Glitter児</GlitterworldKid85.titleShort>
   
   <!-- EN: [PAWN_nameDef] loved technology from the day [PAWN_pronoun] was born. [PAWN_pronoun] had a mechanoid companion which [PAWN_pronoun] tried to modify.\n\n[PAWN_possessive] obsession with technology meant that [PAWN_pronoun] never appreciated arts or culture. -->
@@ -927,8 +922,8 @@
   <GunKid30.titleShort>銃マニア</GunKid30.titleShort>
   
   <!-- EN: [PAWN_nameDef] was a professional gymnast at an early age. Thanks to [PAWN_possessive] skills, [PAWN_pronoun] was able to enroll in a glitterworld university.\n\nBecause of the lack of career opportunities in gymnastics, [PAWN_pronoun] left the university unemployed and carrying an enormous debt. -->
-  <Gymnast48.description>若い頃の[PAWN_nameDef]はプロの体操選手でした.その実力のおかげで,[PAWN_pronoun]は母星を離れてグリッターワールドの大学に入学することができました.\n\n体操で職を得る機会に恵まれなかったため,[PAWN_pronoun]は無職のまま多額の借金を抱えて大学を去りました.</Gymnast48.description>
-  <Gymnast48.baseDesc>若い頃の[PAWN_nameDef]はプロの体操選手でした.その実力のおかげで,[PAWN_pronoun]は母星を離れてグリッターワールドの大学に入学することができました.\n\n体操で職を得る機会に恵まれなかったため,[PAWN_pronoun]は無職のまま多額の借金を抱えて大学を去りました.</Gymnast48.baseDesc>
+  <Gymnast48.description>若い頃の[PAWN_nameDef]はプロの体操選手でした.その実力のおかげで,[PAWN_pronoun]は母星を離れてGlitterworldの大学に入学することができました.\n\n体操で職を得る機会に恵まれなかったため,[PAWN_pronoun]は無職のまま多額の借金を抱えて大学を去りました.</Gymnast48.description>
+  <Gymnast48.baseDesc>若い頃の[PAWN_nameDef]はプロの体操選手でした.その実力のおかげで,[PAWN_pronoun]は母星を離れてGlitterworldの大学に入学することができました.\n\n体操で職を得る機会に恵まれなかったため,[PAWN_pronoun]は無職のまま多額の借金を抱えて大学を去りました.</Gymnast48.baseDesc>
   <!-- EN: gymnast -->
   <Gymnast48.title>体操選手</Gymnast48.title>
   <!-- EN: gymnast -->
@@ -1015,12 +1010,12 @@
   <IcePlanetChild95.titleShort>氷の子供</IcePlanetChild95.titleShort>
   
   <!-- EN: [PAWN_nameDef] was born on an iceworld. Survival depended on staying together and building with nothing.\n\n[PAWN_pronoun] got used to the cold. [PAWN_pronoun] never got used to dealing with those strange green things called plants. -->
-  <IceworldSurvivor75.description>[PAWN_nameDef]は,氷の世界に生まれました.生存とは,お互いに寄り集まり,何も無いところから作り上げるかにかかっていました.\n\n[PAWN_pronoun]は寒さに慣れてきました.[PAWN_pronoun]は,植物と呼ばれる,緑色のなにか不可解な物の扱いに慣れることはありませんでした.</IceworldSurvivor75.description>
-  <IceworldSurvivor75.baseDesc>[PAWN_nameDef]は,氷の世界に生まれました.生存とは,お互いに寄り集まり,何も無いところから作り上げるかにかかっていました.\n\n[PAWN_pronoun]は寒さに慣れてきました.[PAWN_pronoun]は,植物と呼ばれる,緑色のなにか不可解な物の扱いに慣れることはありませんでした.</IceworldSurvivor75.baseDesc>
+  <IceworldSurvivor75.description>[PAWN_nameDef]は,氷の惑星に生まれました.生存とは,お互いに寄り集まり,何も無いところから作り上げるかにかかっていました.\n\n[PAWN_pronoun]は寒さに慣れてきました.[PAWN_pronoun]は,植物と呼ばれる,緑色のなにか不可解な物の扱いに慣れることはありませんでした.</IceworldSurvivor75.description>
+  <IceworldSurvivor75.baseDesc>[PAWN_nameDef]は,氷の惑星に生まれました.生存とは,お互いに寄り集まり,何も無いところから作り上げるかにかかっていました.\n\n[PAWN_pronoun]は寒さに慣れてきました.[PAWN_pronoun]は,植物と呼ばれる,緑色のなにか不可解な物の扱いに慣れることはありませんでした.</IceworldSurvivor75.baseDesc>
   <!-- EN: iceworld survivor -->
-  <IceworldSurvivor75.title>氷の世界の生存者</IceworldSurvivor75.title>
+  <IceworldSurvivor75.title>氷惑星の生存者</IceworldSurvivor75.title>
   <!-- EN: iceborn -->
-  <IceworldSurvivor75.titleShort>氷界生まれ</IceworldSurvivor75.titleShort>
+  <IceworldSurvivor75.titleShort>氷星生まれ</IceworldSurvivor75.titleShort>
   
   <!-- EN: Raised in the military traditions of [PAWN_possessive] forefathers, [PAWN_nameDef] was taught from a young age that [PAWN_pronoun] would be a great leader and the hero of [PAWN_possessive] family.\n\n[PAWN_pronoun] excelled at [PAWN_possessive] studies and graduated from the academy with honors. -->
   <IdealisticCadet64.description>祖先から続く軍人の家系出身の[PAWN_nameDef]は,立派な指揮官を務め,[PAWN_possessive]家の英雄になるようにと,若い頃から叩き込まれていました.\n\n[PAWN_pronoun]は,勉学に秀でていて,栄誉を持って大学を卒業しました.</IdealisticCadet64.description>
@@ -1431,8 +1426,8 @@
   <OrphanedAcrobat84.titleShort>曲芸師</OrphanedAcrobat84.titleShort>
   
   <!-- EN: [PAWN_nameDef] lost [PAWN_possessive] family and home early in life. [PAWN_possessive] life became emotionally hollow, but [PAWN_possessive] painful memories drove [PAWN_objective] to survive.\n\n[PAWN_pronoun] took several jobs, but never achieved more than a basic education. -->
-  <OrphanOfWar60.description>[PAWN_nameDef]は,幼いときに家族と家を失いました.[PAWN_possessive]人生は,空虚なものになったが,苦しい記憶が,[PAWN_objective]生き残らせるためへと駆り立てました.\n\n[PAWN_pronoun]は,幾つかの仕事を得たが,基礎的な教育以上には,達していませんでした.</OrphanOfWar60.description>
-  <OrphanOfWar60.baseDesc>[PAWN_nameDef]は,幼いときに家族と家を失いました.[PAWN_possessive]人生は,空虚なものになったが,苦しい記憶が,[PAWN_objective]生き残らせるためへと駆り立てました.\n\n[PAWN_pronoun]は,幾つかの仕事を得たが,基礎的な教育以上には,達していませんでした.</OrphanOfWar60.baseDesc>
+  <OrphanOfWar60.description>[PAWN_nameDef]は,幼いときに家族と家を失いました.[PAWN_pronoun]は心の内に空虚な穴が開きましたが,つらい記憶が,[PAWN_pronoun]が生き残るための原動力となりました.\n\n[PAWN_pronoun]はいくつかの職を転々としましたが,基礎教育より高度な知識を求められる仕事は何もできませんでした.</OrphanOfWar60.description>
+  <OrphanOfWar60.baseDesc>[PAWN_nameDef]は,幼いときに家族と家を失いました.[PAWN_pronoun]は心の内に空虚な穴が開きましたが,つらい記憶が,[PAWN_pronoun]が生き残るための原動力となりました.\n\n[PAWN_pronoun]はいくつかの職を転々としましたが,基礎教育より高度な知識を求められる仕事は何もできませんでした.</OrphanOfWar60.baseDesc>
   <!-- EN: orphan of war -->
   <OrphanOfWar60.title>戦争孤児</OrphanOfWar60.title>
   <!-- EN: orphan -->
@@ -2375,8 +2370,8 @@
   <YoungMaster23.titleShort>マスター</YoungMaster23.titleShort>
   
   <!-- EN: [PAWN_nameDef] was born to pirates, in a dirty metal room that smelled of motor oil.\n\n[PAWN_pronoun] was never exactly taught anything, but [PAWN_pronoun] still learned the ways of survival, barter, and combat. -->
-  <YoungPirate71.description>[PAWN_nameDef]は,オイルの臭いがが充満する,汚れた部屋で,宙賊になるべく生まれてきました.\n\n[PAWN_pronoun]は全く何も教わりませんでした しかし[PAWN_pronoun]は,今もなお,生き抜く方法を学んでいます,物々交換,戦い方など</YoungPirate71.description>
-  <YoungPirate71.baseDesc>[PAWN_nameDef]は,オイルの臭いがが充満する,汚れた部屋で,宙賊になるべく生まれてきました.\n\n[PAWN_pronoun]は全く何も教わりませんでした しかし[PAWN_pronoun]は,今もなお,生き抜く方法を学んでいます,物々交換,戦い方など</YoungPirate71.baseDesc>
+  <YoungPirate71.description>[PAWN_nameDef]は,オイルの臭いが充満する,汚れた部屋で,宙賊になるべく生まれてきました.\n\n[PAWN_pronoun]は全く何も教わりませんでした しかし[PAWN_pronoun]は,今もなお,生き抜く方法を学んでいます,物々交換,戦い方など</YoungPirate71.description>
+  <YoungPirate71.baseDesc>[PAWN_nameDef]は,オイルの臭いが充満する,汚れた部屋で,宙賊になるべく生まれてきました.\n\n[PAWN_pronoun]は全く何も教わりませんでした しかし[PAWN_pronoun]は,今もなお,生き抜く方法を学んでいます,物々交換,戦い方など</YoungPirate71.baseDesc>
   <!-- EN: young pirate -->
   <YoungPirate71.title>若い宙賊</YoungPirate71.title>
   <!-- EN: pirate -->

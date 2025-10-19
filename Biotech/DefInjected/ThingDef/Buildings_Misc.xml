@@ -64,8 +64,8 @@
   
   <!-- EN: crashed shuttle -->
   <ShuttleCrashed_Exitable.label>墜落したシャトル</ShuttleCrashed_Exitable.label>
-  <!-- EN: A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system. -->
-  <ShuttleCrashed_Exitable.description>地地表と軌道間や,惑星系の衛星間の輸送を行うために設計された宇宙技術のシャトルです.</ShuttleCrashed_Exitable.description>
+  <!-- EN: A spacer-tech uranium-powered shuttle designed for transit between surface and orbit, or between moons of a planetary system. To prevent unsanctioned use, the shuttle is locked to the pilot's bio-signature. Destroying the shuttle will yield a shuttle engine and other valuable resources. -->
+  <ShuttleCrashed_Exitable.description>地表と軌道間や,惑星系の衛星間の輸送を行うために設計された,ウラン動力を用いた宇宙技術のシャトルです.不正使用を防ぐため,シャトルにはパイロットの生体認証によるロックがかかっています.シャトルを破壊すると,シャトルエンジンや貴重な資源が手に入ります.</ShuttleCrashed_Exitable.description>
   
   <!-- EN: crashed mechanitor ship -->
   <ShuttleCrashed_Exitable_Mechanitor.label>墜落したメカニター船</ShuttleCrashed_Exitable_Mechanitor.label>
@@ -80,7 +80,7 @@
   <!-- EN: IED tox trap -->
   <TrapIED_ToxGas.label>IED 毒トラップ</TrapIED_ToxGas.label>
   <!-- EN: A pair of tox gas shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_ToxGas.description>接触信管に接続された一対の毒ガス弾頭です.これが周囲の地形に隠されると,その隣には他のトラップを配置できません.落ち着いている動物達は,これに気づきます.</TrapIED_ToxGas.description>
+  <TrapIED_ToxGas.description>接触信管に接続された一対の毒ガス弾頭です.周囲の地形に隠すため,他のトラップの隣には設置できません.落ち着いている動物達は,これに気づきます.</TrapIED_ToxGas.description>
   
   <!-- EN: wastepack atomizer -->
   <WastepackAtomizer.label>廃棄物パック分解装置</WastepackAtomizer.label>

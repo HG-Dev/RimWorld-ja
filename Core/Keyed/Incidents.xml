@@ -34,7 +34,7 @@
   <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
   <RefugeePodCrash>{PAWN_nameDef}という{PAWN_titleIndef}が乗った輸送ポッドが近くに墜落してきます.もし{PAWN_pronoun}が衝撃から生き残ったとしても,{PAWN_pronoun}は重傷を負っているでしょう.</RefugeePodCrash>
   <!-- EN: {PAWN_nameDef} is a child of {AGE}. -->
-  <RefugeePodCrash_Child>{PAWN_nameDef}は{AGE}歳の子供です.</RefugeePodCrash_Child>
+  <RefugeePodCrash_Child>{PAWN_nameDef}は生まれてから{AGE}目を迎えた子供です.</RefugeePodCrash_Child>
   <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
   <RefugeePodCrash_Factionless>{PAWN_nameDef}は,どこの派閥にも属していません. あなたは{PAWN_objective}助けて,{PAWN_pronoun}が自ら仲間になることを期待しても良いですし,勧誘か奴隷目的で{PAWN_objective}捕らえることもできます.</RefugeePodCrash_Factionless>
   <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
@@ -175,9 +175,9 @@
   <!-- EN: Ship found -->
   <EscapeShipFoundLabel>宇宙船発見</EscapeShipFoundLabel>
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <EscapeShipFound>(*Name)Charlon Whitestone(/Name)が送ってきた座標に到着し,秘匿された宇宙船を発見しました.\n\n宇宙船の反応炉は深い休止状態にあるので,まだ飛ぶことができません.コンピュータコアを使って操作すれば起動させることができます.\n\n(*Name)Charlon Whitestone(/Name)は警告しています. 再起動シーケンスはおよそ15日程かかり,発生するエネルギー波紋は,かなり遠くからでも探知されてしまうでしょう.このエネルギー波紋の一種は,恒星間航行能力があることを示し,命知らずのギャング達や,最悪なメカノイドの群れを惹きつけるでしょう.\n\nあなたは,今まで見たこともないような熾烈な戦闘に巻き込まれることが予想されます.まずは最初に守りを確認しましょう.</EscapeShipFound>
+  <EscapeShipFound>(*Name)Charlon Whitestone(/Name)から送られた座標へ 到着し,秘匿された宇宙船を発見しました.\n\n宇宙船の反応炉は深い休止状態にあるため,まだ飛ぶことができません.コンピュータコアにアクセスすれば起動させることができます.\n\n(*Name)Charlon Whitestone(/Name)の警告によると, 再起動シーケンスは約15日程度かかり,発生するエネルギー波紋は,かなり遠くからでも探知されてしまうでしょう.このエネルギー波紋の一種は,恒星間航行能力があることを示し,命知らずのギャング達や,最悪なメカノイドの群れを惹きつけるでしょう.\n\nあなたは,今まで見たこともないような熾烈な戦闘に巻き込まれることが予想されます.まずは最初に守りを確認しましょう.</EscapeShipFound>
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days. -->
-  <EscapeShipFoundPeaceful>あなたは(*Name)Charlon Whitestone(/Name)が送ってきた座標に到着し,秘匿された宇宙船を発見しました.\n\n宇宙船の反応炉は深い休止状態にあるので,まだ飛ぶことはできません.コンピュータコアにアクセスして起動させることができます.\n\n(*Name)Charlon Whitestone(/Name)はあなたに 起動シーケンスは約15日かかると警告してきました.</EscapeShipFoundPeaceful>
+  <EscapeShipFoundPeaceful>あなたは(*Name)Charlon Whitestone(/Name)から送られた 座標へ到着し,秘匿された宇宙船を発見しました.\n\n宇宙船の反応炉は深い休止状態にあるため,まだ飛ぶことができません.コンピュータコアにアクセスすれば起動させることができます.\n\n(*Name)Charlon Whitestone(/Name)の警告によると, 起動シーケンスは約15日程度かかるそうです.</EscapeShipFoundPeaceful>
 
   <!-- Caravan meeting -->
   <!-- EN: Caravan meeting by {0} -->
@@ -199,9 +199,9 @@
   <!-- EN: Caravan request -->
   <LetterLabelCaravanRequest>キャラバン隊派遣要請</LetterLabelCaravanRequest>
   <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
-  <LetterCaravanRequest>入植地の近くにある,{0}が特別な取引を持ちかけてきました. 彼らは,以下の物を欲しがっています:\n\n  {1} (価値 {2})\n\n見返りとして提示:\n\n  {3} (価値 {4})\n\n有効期限: {5}\n\n取引に興味があれば,要求された品物を持たせたキャラバン隊を送りましょう. おおよその旅程時間は{6}です. この取引は,ワールドマップで{0}を選択すると再表示できます.</LetterCaravanRequest>
+  <LetterCaravanRequest>入植地の近くにある,{0}が特別な取引を持ちかけてきました. 彼らは,以下の物を欲しがっています:\n\n  {1} (価値 {2})\n\n見返りとして提示:\n\n  {3} (価値 {4})\n\n有効期限: {5}\n\nこの取引に興味があれば,要求された品物を持たせたキャラバン隊を送りましょう. おおよその旅程時間は{6}です. この取引は,ワールドマップで{0}を選択すると再表示できます.</LetterCaravanRequest>
   <!-- EN: Requesting: {0} ({2}) ({1} left) -->
-  <CaravanRequestInfo>要求: {0}({3}),報酬: {1}({4}) (残り{2})</CaravanRequestInfo>
+  <CaravanRequestInfo>要求: {0} (価値{2}) (残り{1})</CaravanRequestInfo>
   <!-- EN: normal quality or better -->
   <NormalQualityOrBetter>普通以上の品質</NormalQualityOrBetter>
   <!-- EN: not tainted -->
